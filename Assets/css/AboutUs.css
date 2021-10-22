@@ -1,0 +1,7 @@
+.aboutUsHands {
+    background: url('../images/AboutUS/AboutUsLine.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 10px 15px 0;
+}

@@ -1,0 +1,9 @@
+.DigitalStartupsSetionTwoBg {
+    background: url('../images/Plans/DigitalStartups/DigitalStartupsSetionTwoBg.png');
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-size: 40% 100%;
+    padding: 15px 10px;
+    position: relative;
+    transition: 2s;
+}

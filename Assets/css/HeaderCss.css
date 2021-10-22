@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@100;300;400&display=swap');
+nav.navbar {
+    background: transparent;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+}
+
+a.navbar-brand img {
+    max-width: 110px;
+    height: 100%;
+}
+
+.nav-link {
+    color: #fff !important;
+    font-family: 'Exo', sans-serif;
+    font-weight: 400;
+    font-size: 0.9rem;
+    margin: 10px auto;
+}
+
+.HeadersocialMedia ul {
+    display: inline-flex;
+    margin: 10px auto;
+    list-style: none;
+}
+
+.HeadersocialMedia ul li a {
+    color: #fff;
+    margin: 10px;
+    font-size: 1.2rem;
+    transition: 1s;
+}
+
+.HeadersocialMedia ul li a:hover {
+    opacity: 0.6;
+    transition: 1s;
+}
+
+.HomePageSectionFiveV1::after {
+    content: '';
+    width: 80%;
+    height: 4px;
+    position: relative;
+    bottom: 0;
+    z-index: 999;
+    display: block;
+    background-image: linear-gradient( 45deg, #6610a3, #001b80);
+    border-radius: 50px;
+    margin: 50px auto 0;
+}
+
+.footer {
+    background: url('../images/HomePage/FooterBg.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    padding: 50px 20px;
+    position: relative;
+    color: #fff;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer h5 {
+    font-weight: 400;
+    font-size: 1.3rem;
+}
+
+.footer li {
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 2;
+    transition: 1s;
+}
+
+.footer li:hover {
+    padding-left: 10px;
+    transition: 1s;
+    cursor: pointer;
+}
+
+.FooterImg03 {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+    right: -260px;
+    max-width: 470px;
+    -webkit-animation: spin 24s linear infinite;
+    -moz-animation: spin 24s linear infinite;
+    animation: spin 24s linear infinite;
+}
+
+.footer h5::after {
+    content: '';
+    width: 15%;
+    height: 4px;
+    position: relative;
+    bottom: 0;
+    z-index: 999;
+    display: block;
+    background-image: linear-gradient( 45deg, #6610a3, #001b80);
+    border-radius: 50px;
+}
