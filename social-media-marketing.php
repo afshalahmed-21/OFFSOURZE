@@ -7,8 +7,8 @@
     <div class="innerMainBannerBg">
         <div class="container">
             <div class="col-lg-6 m-auto text-center mainBannerHeading mt-5 pt-4 pb-4">
-                <img class="w-100" src="Assets/images/Plans/DigitalStartups/DigitalStartupsTextBg.png" alt="">
-                <h1><strong>Digital</strong> Startups</h1>
+                <img class="w-100" src="Assets/images/Services/SocialMediaMarketing/SocialMediaMarketingMainBanner.png" alt="">
+                <h1><strong>Social Media </strong> Marketing</h1>
             </div>
         </div>
     </div>
@@ -18,15 +18,15 @@
     <div class="DigitalStartupsSetionTwoBg">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4 m-auto" data-aos="fade-right">
-                    <img class="w-50 m-auto d-block DigitalStartupsSetionImg01" src="Assets/images/Plans/DigitalStartups/DigitalStartupsSetionImg01.png" alt="">
+                <div class="col-lg-4 m-auto"  data-aos="fade-right">
+                    <img class="w-100 m-auto d-block DigitalStartupsSetionImg01" src="Assets/images/Services/SocialMediaMarketing/SocialMediamarketingImg01.png" alt="">
                 </div>
-                <div class="col-lg-7 m-auto" data-aos="fade-left">
+                <div class="col-lg-7 m-auto"  data-aos="fade-left">
                     <div class="smartWork">
                         <h2>
                             <strong>
                                 <i>
-                                    Unique Services For Digital Startup
+                                    Designs that captivate attention, Forever
                                 </i>
                             </strong>
                         </h2>
@@ -51,7 +51,7 @@
 <section class="DigitalStartupsSetionThreeBg">
     <div class="container">
         <div class="row">
-            <div class="col-lg-5 m-auto" data-aos="fade-right">
+            <div class="col-lg-5 m-auto"  data-aos="fade-right">
                 <div class="ServicesList mb-4">
                     <div class="row">
                         <div class="col-6 col-lg-5 m-auto">
@@ -108,27 +108,45 @@
 </section>
 
 <section class="DigitalStartupsSetionFourBg">
+    <div class="col-lg-4 text-center m-auto">
+        <h2 class=" text-light">Our Process</h2>
+    </div>
     <div class="container">
         <div class="row">
-            <div class="col-lg-4 text-center" data-aos="fade-right">
+            <div class="col-lg-2 text-center">
                 <div class="Type">
-                    <img src="Assets/images/Plans/DigitalStartups/Icon01.png" alt="">
-                    <h2>Lead Generation</h2>
-                    <p>Register your free account on our client portal.</p>
+                    <img class="processImg" src="Assets/images/Services/LogoDesign/img01.png" alt="">
+                    <h2 style="font-weight: 600;font-size: 1.3rem;">Brief</h2>
                 </div>
             </div>
-            <div class="col-lg-4 text-center" data-aos="fade-in">
+            <div class="col-lg-2 text-center">
                 <div class="Type">
-                    <img src="Assets/images/Plans/DigitalStartups/Icon02.png" alt="">
-                    <h2>Leads Nurturing</h2>
-                    <p>Provide brief and basic information of the prioject.</p>
+                    <img class="processImg" src="Assets/images/Services/LogoDesign/img07.png" alt="">
+                    <h2 style="font-weight: 600;font-size: 1.3rem;">Targeting</h2>
                 </div>
             </div>
-            <div class="col-lg-4 text-center" data-aos="fade-left">
+            <div class="col-lg-2 text-center">
                 <div class="Type">
-                    <img src="Assets/images/Plans/DigitalStartups/Icon03.png" alt="">
-                    <h2>Leads Handing Over</h2>
-                    <p>We will deliver your work in shortest period of time.</p>
+                    <img class="processImg" src="Assets/images/Services/LogoDesign/img08.png" alt="">
+                    <h2 style="font-weight: 600;font-size: 1.3rem;">Ad Development</h2>
+                </div>
+            </div>
+            <div class="col-lg-2 text-center">
+                <div class="Type">
+                    <img class="processImg" src="Assets/images/Services/LogoDesign/img06.png" alt="">
+                    <h2 style="font-weight: 600;font-size: 1.3rem;">Spilit Testing</h2>
+                </div>
+            </div>
+            <div class="col-lg-2 text-center">
+                <div class="Type">
+                    <img class="processImg" src="Assets/images/Services/LogoDesign/img04.png" alt="">
+                    <h2 style="font-weight: 600;font-size: 1.3rem;">Excecution</h2>
+                </div>
+            </div>
+            <div class="col-lg-2 text-center">
+                <div class="Type">
+                    <img class="processImg" src="Assets/images/Services/LogoDesign/img05.png" alt="">
+                    <h2 style="font-weight: 600;font-size: 1.3rem;">Reporting</h2>
                 </div>
             </div>
         </div>
@@ -138,47 +156,14 @@
     </div>
 </section>
 
-<section>
-    <div class="DigitalStartupsSetionFive">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 m-auto" data-aos="fade-right">
-                    <div class="smartWork">
-                        <h2>
-                            <strong>
-                                <i>
-                                    Agency Services
-                                </i>
-                            </strong>
-                        </h2>
-                        <p class="text-dark">
-                            <strong>
-                                <i>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sem nulla, semper sed ullamcorper vel, tempus non quam. Duis nisl ex, euismod non nibh eu, ultrices congue nisl. Duis hendrerit pulvinar laoreet. Praesent pretium augue vitae nibh dignissim posuere. Proin sed porttitor ligula. Morbi in diam feugiat, varius velit id, vulputate arcu. Nam sed eros vulputate, finibus justo eu, faucibus nunc. Nulla facilisi. Vivamus nisl metus, placerat a elementum vel, convallis euismod erat.
-                                </i>
-                            </strong>
-                        </p>
-                        <div class="col-lg-4">
-                            <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 m-auto" data-aos="fade-left">
-                    <img class="w-75 m-auto d-block mb-5 pb-5 DigitalStartupsSetionImg02" src="Assets/images/Plans/DigitalStartups/DigitalStartupsSetionImg02.png" alt="">
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
 <section class="DigitalStartupsSetionSixBg">
     <div class="container">
         <div class="row">
             <img class="MainSectionImg06" src="Assets/images/HomePage/MainSectionImg06.png" alt="">
             <div class="col-lg-4"></div>
-            <div class="col-lg-6 m-auto" data-aos="fade-left">
+            <div class="col-lg-6 m-auto"  data-aos="fade-right">
                 <h2>
-                    <i>Brand Development</i>
+                    <i>Branding & Strategy</i>
                 </h2>
                 <p>
                     <i>
@@ -197,9 +182,9 @@
 <section class="DigitalStartupsSetionSevenBg">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6 m-auto" data-aos="fade-right">
+            <div class="col-lg-6 m-auto"  data-aos="fade-left">
                 <h2>
-                    <i>Lead Generation</i>
+                    <i>Content & Posts</i>
                 </h2>
                 <p>
                     <i>
@@ -222,9 +207,9 @@
         <div class="row">
             <img class="MainSectionImg06" src="Assets/images/HomePage/MainSectionImg06.png" alt="">
             <div class="col-lg-4"></div>
-            <div class="col-lg-6 m-auto" data-aos="fade-left">
+            <div class="col-lg-6 m-auto"  data-aos="fade-right">
                 <h2>
-                    <i>Lead Commitment</i>
+                    <i>Paid Social Marketing</i>
                 </h2>
                 <p>
                     <i>
@@ -249,16 +234,19 @@
             <div class="col-lg-4">
                 <div class="card cardRounded">
                     <div class="card-title">
-                        Basic
+                        Small
                     </div>
                     <ul>
-                        <li>Logo Design</li>
-                        <li>Brand Website</li>
-                        <li>Social Media Presence</li>
-                        <li>Marketing Material</li>
-                        <li>Operational Support</li>
-                        <li>Dialpad & Zendesk</li>
+                        <li>Page Management (2 Platforms)</li>
+                        <li>Cover & Page UI</li>
+                        <li>6 Social Media Posts</li>
+                        <li>1 Animation</li>
+                        <li>Audience Engagement</li>
+                        <li>Monthly Reporting</li>
                     </ul>
+                    <div class="pricingBox">
+                        <h2><Span>$</Span> 120 <span>USD</span></h2>
+                    </div>
                     <div class="col-lg-4 m-auto mt-3">
                         <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
                     </div>
@@ -267,17 +255,19 @@
             <div class="col-lg-4">
                 <div class="card cardRounded">
                     <div class="card-title">
-                        Standard
+                        Basic Package
                     </div>
                     <ul>
-                        <li>Logo Design</li>
-                        <li>Brand Website</li>
-                        <li>Social Media Presence</li>
-                        <li>Marketing Material</li>
-                        <li>Operational Support</li>
-                        <li>Dialpad & Zendesk</li>
-                        <li>Lead Generation (PPC or Facebook USD 400)</li>
+                        <li>Page Management (3 Platforms)</li>
+                        <li>Cover & Page UI</li>
+                        <li>12 Social Media Posts</li>
+                        <li>1 Animation</li>
+                        <li>Audience Engagement</li>
+                        <li>Monthly Reporting</li>
                     </ul>
+                    <div class="pricingBox">
+                        <h2><Span>$</Span> 270 <span>USD</span></h2>
+                    </div>
                     <div class="col-lg-4 m-auto mt-3">
                         <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
                     </div>
@@ -289,16 +279,20 @@
                         Premium
                     </div>
                     <ul>
-                        <li>Logo Design</li>
-                        <li>Brand Website</li>
-                        <li>Social Media Presence</li>
-                        <li>Marketing Material</li>
-                        <li>Operational Support</li>
-                        <li>Dialpad & Zendesk</li>
-                        <li>Dialpad & Zendesk</li>
-                        <li>Lead Generation (PPC or Facebook USD 400)</li>
-                        <li>Live Agent</li>
+                        <li>Page Management (3 Platforms)</li>
+                        <li>Cover & Page UI</li>
+                        <li>12 Social Media Posts</li>
+                        <li>1 Animation</li>
+                        <li>Audience Engagement</li>
+                        <li>Community Management</li>
+                        <li>Reputation Management</li>
+                        <li>Inﬂuencer Management</li>
+                        <li>Targeted Page Likes</li>
+                        <li>Monthly Reporting</li>
                     </ul>
+                    <div class="pricingBox">
+                        <h2><Span>$</Span> 500 <span>USD</span></h2>
+                    </div>
                     <div class="col-lg-4 m-auto mt-3">
                         <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
                     </div>

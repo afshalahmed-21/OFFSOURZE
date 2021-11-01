@@ -4,10 +4,10 @@
             <div class="row">
                 <div class="col-lg-6 m-auto mb-0">
                     <div class="row">
-                        <div class="col-5 p-0 pt-3">
-                            <img class="w-100" src="Assets/images/HomePage/ContactImg.png" alt="">
+                        <div class="col-5 p-0 pt-0">
+                            <img class="w-100" src="Assets/images/HomePage/ContactImg.png" data-aos="fade-up" data-aos-duration="1000" alt="">
                         </div>
-                        <div class="col-6 text-center mt-5 pt-4 p-0">
+                        <div class="col-6 text-center mt-5 pt-4 p-0" data-aos="fade-left" data-aos-duration="2000">
                             <div class="FreeConsultation">
                                 <h4>Get a Free Consultation</h4>
                                 <h3>Today!</h3>

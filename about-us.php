@@ -50,7 +50,7 @@
     <div class="container-fluid p-0">
         <div class="aboutUsHands">
             <div class="col-lg-4 m-auto pt-5">
-                <img class="w-100" src="Assets/images/AboutUS/AboutHands.png" alt="">
+                <img class="w-100 mb-0" data-aos="flip-down" src="Assets/images/AboutUS/AboutHands.png" alt="">
             </div>
         </div>
     </div>
@@ -58,7 +58,7 @@
 <section>
     <div class="container">
         <div class="col-lg-8 m-auto">
-            <img class="w-100" src="Assets/images/AboutUS/About-us-Services.png" alt="">
+            <img class="w-100" data-aos="zoom-in" data-aos-duration="2000" src="Assets/images/AboutUS/About-us-Services.png" alt="">
         </div>
     </div>
 </section>

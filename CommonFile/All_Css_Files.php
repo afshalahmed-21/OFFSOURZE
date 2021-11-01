@@ -9,6 +9,7 @@
     <link href="Assets/fontAwesome/css/all.min.css" rel="stylesheet">
     <link rel="stylesheet" href="Assets/css/animation.css">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="Assets/css/CommonCss.css">
     <title>offsourze</title>
     <!doctype html>

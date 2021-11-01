@@ -12,28 +12,28 @@
             <div class="MainSectionBannerLine">
                 <div class="VerticallyCenter">
                     <img class="Earth" src="Assets/images/HomePage/Main-Section-Banner.png" alt="">
-                    <img class="MainSectionBannerLine" src="Assets/images/HomePage/MainSectionBannerLine.png" alt="">
+                    <img class="MainSectionBannerLine"  data-aos="zoom-in" data-aos-duration="2000" src="Assets/images/HomePage/MainSectionBannerLine.png" alt="">
                     <div class="container">
                         <div class="col-lg-4 m-auto">
                             <div class="slider01">
                                 <div>
                                     <h1><i>Let your brand</i> </h1>
-                                    <h2><i>Speak for itself</i></h2>
+                                    <h2 class="text-white"><i>Speak for itself</i></h2>
                                 </div>
                                 <div>
                                     <h1><i>Let your brand</i> </h1>
-                                    <h2><i>Speak for itself</i></h2>
+                                    <h2 class="text-white"><i>Speak for itself</i></h2>
                                 </div>
                                 <div>
                                     <h1><i>Let your brand</i> </h1>
-                                    <h2><i>Speak for itself</i></h2>
+                                    <h2 class="text-white"><i>Speak for itself</i></h2>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="MainBannerContactUs">
-                    <div class="row">
+                    <div class="row"  data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-duration="3000">
                         <div class="col-6">
                             <a class="CallTo" href="tel:+14702033750">+1 (470) 203-3750 (24/7 Support Line).</a>
                         </div>
@@ -52,11 +52,11 @@
     <div class="container">
         <div>
             <div class="row">
-                <div class="col-lg-4 m-auto text-center WhyOffSourze">
+                <div class="col-lg-4 m-auto text-center WhyOffSourze" data-aos="fade-right">
                     <span class="textBg">ABOUT US</span>
                     <h2>Why offsourze</h2>
                 </div>
-                <div class="col-lg-4 ms-0 m-auto WhyOffSourze">
+                <div class="col-lg-4 ms-0 m-auto WhyOffSourze" data-aos="fade-left">
                     <h6>
                         We’re a full-fledged Digital Agency based in the USA that offers Digital Solutions to startups, and corporations globally. From logo design, website design to digital marketing, app development activities,
                         we’ve covered it all.
@@ -162,7 +162,7 @@
         <div class="container">
             <div class="WeOffer">
                 <div class="row">
-                    <div class="col-lg-3 m-auto">
+                    <div class="col-lg-3 m-auto" data-aos="fade-right">
                         <h1>Services <br> <i>We Offer!</i></h1>
                         <p>
                             Making a New Growth to Your Business by
@@ -170,7 +170,7 @@
                         </p>
                     </div>
                     <div class="col-lg-9 m-auto">
-                        <img class="w-100" src="Assets/images/HomePage/Services-We-Offer-02.png" alt="">
+                        <img class="w-100" data-aos="zoom-in" data-aos-duration="2000" src="Assets/images/HomePage/Services-We-Offer-02.png" alt="">
                     </div>
                 </div>
             </div>
@@ -299,7 +299,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-3">
-                    <div class="card Blog p-2 shadow">
+                    <div class="card Blog p-2 shadow" data-aos="flip-up">
                         <img class="w-100" src="Assets/images/HomePage/Blog01.png" alt="">
                         <p>
                             Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
@@ -310,7 +310,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="card Blog p-2 shadow">
+                    <div class="card Blog p-2 shadow" data-aos="flip-up">
                         <img class="w-100" src="Assets/images/HomePage/Blog02.png" alt="">
                         <p>
                             Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
@@ -321,7 +321,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="card Blog p-2 shadow">
+                    <div class="card Blog p-2 shadow" data-aos="flip-up">
                         <img class="w-100" src="Assets/images/HomePage/Blog03.png" alt="">
                         <p>
                             Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
@@ -332,7 +332,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="card Blog p-2 shadow">
+                    <div class="card Blog p-2 shadow" data-aos="flip-up">
                         <img class="w-100" src="Assets/images/HomePage/Blog03.png" alt="">
                         <p>
                             Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
