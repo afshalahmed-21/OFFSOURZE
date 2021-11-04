@@ -1,0 +1,24 @@
+.WebDevelopmentBgsix {
+    background: url('../images/WebDevelopment/WebDevBg1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+.WebDevelopmentBgsix h2{
+    color: #D78D27;
+    font-weight: 500;
+}
+.WebDevelopmentBgseven {
+    background: url('../images/WebDevelopment/WebDevBg2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+.WebDevelopmentBgseven h2{
+    color: #D78D27;
+    font-weight: 500;
+}

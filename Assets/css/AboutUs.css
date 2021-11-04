@@ -1,0 +1,58 @@
+.aboutUsHands {
+    background: url('../images/AboutUS/AboutUsLine.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 10px 15px 0;
+}
+.aboutUsSetting img{
+    height: 300px;
+    position: absolute;
+    right: 83%;
+}
+.manSetting img{
+    height: 300px;
+    display: block;
+    margin-left: 85%
+}
+.Worlwide{
+    background-image: linear-gradient(45deg, #6610a3, #001b80);
+}
+.Worlwide img.map{
+    height: 300px;
+    position: relative;
+    left: 52rem;
+}
+.Worlwide img.Glob{
+    height: 255px;
+    position: relative;
+    right: 46rem;
+}
+.Worlwide h1{
+    position: relative;
+    left: 340px;
+    top: -13rem;
+}
+.Worlwide h4{
+    top: -174px;
+    position: relative;
+    left: 340px;
+    color: white;
+}
+.Worlwide p{
+    top: -130px;
+    position: relative;
+    left: 340px;
+    color: white;
+}
+.SettingBox img.Setting{
+    height: 20rem;
+    position: relative;
+    top: 22.1rem;
+}
+.SettingBox img.SettingMan{
+    height: 20rem;
+    position: relative;
+    top: 20rem;
+    right: 7rem;
+}

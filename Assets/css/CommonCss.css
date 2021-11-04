@@ -1,0 +1,334 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,600;1,400;1,500;1,600&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html,
+body {
+    overflow-x: hidden;
+    font-family: 'Exo', sans-serif;
+}
+
+.innerMainBannerBg {
+    background: url('../images/HomePage/HomePageBanner5.jpg');
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 20px;
+    position: relative;
+}
+
+.textBg {
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(rgb(255, 255, 255) 46%, rgb(255, 255, 255) 49%, rgb(255, 255, 255) 80%);
+    text-align: center;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 1px #6610a3;
+    -webkit-filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.2));
+    filter: drop-shadow #6610a3;
+    font-size: 3rem;
+    font-weight: 800;
+    margin-bottom: 0;
+    line-height: 1;
+    display: block;
+}
+
+a.ReadArticle {
+    text-align: center;
+    text-decoration: none;
+    background-image: linear-gradient( 45deg, #0e1a85, #4d139b);
+    color: #fff;
+    padding: 5px 15px;
+    display: block;
+    border-radius: 30px;
+    font-size: 0.8rem;
+    font-style: italic;
+}
+
+.HomePageSectionThree {
+    background: url('../images/HomePage/HomePageSectionThree.jpg');
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 50px 20px;
+    position: relative;
+}
+
+.HomePageSectionFiveV1 {
+    padding: 10px 10px 50px;
+}
+
+.FreeConsultation {
+    border: 2px solid #6610a3;
+    border-radius: 10px;
+    position: relative;
+    top: 120px;
+}
+.contactUs {
+    background: #e2e2e2;
+    padding: 20px 0px;
+    border-radius: 10px;
+    width: 433px;
+    height: 364px;
+    top: 90px;
+    position: relative;
+    left: 100px;
+}
+
+.contactUs .card-header {
+    background-image: linear-gradient( 45deg, #6610a3, #001b80);
+    color: #fff;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.contactUs textarea,
+.contactUs input {
+    border-radius: 10px;
+    resize: none;
+}
+
+a.GetStarted {
+    text-decoration: none;
+    color: #fff;
+    background-image: linear-gradient( 45deg, #6610a3, #001b80);
+    padding: 10px 20px;
+    border-radius: 20px;
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin: 40px auto 0px;
+    transition: 1s;
+}
+
+a.GetStarted:hover {
+    background-image: linear-gradient( 45deg, #001b80, #6610a3);
+    transition: 1s;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.dropdown-menu {
+    margin-top: 0;
+}
+
+.dropdown-toggle::after {
+    border-top: 0em solid transparent;
+    border-right: 0em solid transparent;
+    border-bottom: 0;
+    border-left: 0em solid transparent;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    top: 37px;
+    z-index: 999;
+    padding: 0;
+    background: #000038;
+}
+
+.dropdown-item:focus,
+.dropdown-item:hover {
+    color: #c4745c;
+    background-color: transparent;
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+.dropdown-item {
+    color: #eee;
+}
+
+.dropdown:hover .dropdown-menu::before {
+    content: '';
+    background: #000038;
+    width: 30px;
+    height: 50px;
+    top: -10px;
+    left: 10px;
+    position: absolute;
+    border-radius: 50px;
+    z-index: -1;
+}
+
+.mainBannerHeading h1 {
+    color: #fff;
+    font-size: 3rem;
+    font-family: 'Exo', sans-serif;
+    font-weight: 400;
+    line-height: 0;
+    position: relative;
+}
+
+.smartWork h4,
+h2 {
+    color: #6432c1;
+}
+
+.ContentHeading h2 {
+    font-weight: 600;
+    color: #6432c1;
+    font-style: italic;
+}
+
+.ContentHeading p {
+    font-weight: 600;
+    font-style: italic;
+}
+
+.HomePageSectionFour {
+    background: url('../images/HomePage/HomePageMainBanner4.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 20px;
+    position: relative;
+}
+
+.OurCustomer h2 {
+    color: #fff;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.OurCustomer h2 span {
+    color: #fff;
+    font-weight: 600;
+}
+
+img.MainSectionImg06 {
+    width: 100%;
+    position: absolute;
+    max-width: 380px;
+    left: -250px;
+    bottom: -50px;
+    -webkit-animation: spin 4s linear infinite;
+    -moz-animation: spin 4s linear infinite;
+    animation: spin 4s linear infinite;
+}
+
+.slider03 img {
+    width: 100%;
+    height: 100%;
+    max-width: 200px;
+    max-height: 80px;
+    object-fit: contain;
+    transition: 1s;
+    margin: auto;
+}
+
+.slider03 img:hover {
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 10px;
+    transition: 1s;
+}
+
+.card.Blog img {
+    height: 100%;
+    max-height: 200px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.Legal li,
+.Services li {
+    line-height: 1.5 !important;
+}
+
+ul.ATLANTA li,
+ul.KARACHI li {
+    line-height: 1.5;
+    font-size: 0.8rem;
+}
+
+.Blog p {
+    font-size: 0.8rem;
+}
+
+.card.Blog {
+    border: none;
+    text-align: center;
+}
+
+.slick-slide {
+    height: auto !important;
+}
+
+.slider04 .slick-slide {
+    min-height: 490px;
+}
+
+
+/* width */
+
+::-webkit-scrollbar {
+    width: 7px;
+}
+
+
+/* Track */
+
+::-webkit-scrollbar-track {
+    background-image: linear-gradient( 45deg, #6610a3, #001b80);
+}
+
+
+/* Handle */
+
+::-webkit-scrollbar-thumb {
+    background: #03093d;
+    border-radius: 50px;
+}
+
+
+/* Handle on hover */
+
+ ::-webkit-scrollbar-thumb:hover {
+    background: #DA9027;
+}
+
+@media screen and (max-width: 991px) {
+    .mainBannerHeading h1 {
+        font-size: 2rem;
+        line-height: 1;
+    }
+    img.SectionTwoShapes {
+        max-width: 50px !important;
+    }
+    .MainSectionImg01,
+    .MainSectionImg02 {
+        display: none;
+    }
+    .HomePageSectionFive {
+        height: 100% !important;
+    }
+    .HowWeWork::before {
+        display: none;
+    }
+    .DigitalStartupsSetionFive,
+    .DigitalStartupsSetionTwoBg {
+        background-size: 20% 40% !important;
+        text-align: center;
+    }
+    .DigitalStartupsSetionTwoBg img {
+        max-width: 30%;
+    }
+    img.MainSectionImg06 {
+        max-width: 300px !important;
+        left: -220px !important;
+    }
+    .HomePageSectionThree .FreeConsultation{
+        top: 35px;
+    }
+    .contactUs{
+        left: 0px;
+        width: 303px;
+        height: 403px;
+    }
+}

@@ -1,0 +1,46 @@
+.AppDevOne {
+    background: url('../images/AppDevelopment/AppDevelopmentbg1-02.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+.AppDevOne h2{
+    color: #D78D27;
+    font-weight: 500;
+}
+.AppDevTwo{
+    background: url('../images/AppDevelopment/AppDevelopmentbg2-02.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+.AppDevTwo h2{
+    color: #D78D27;
+    font-weight: 500;
+}
+.AppDevThree{
+    background: url('../images/AppDevelopment/AppDevelopmentbg3-02.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+.AppDevThree h2{
+    color: #D78D27;
+    font-weight: 500;
+}
+.DigitalStartupsSetionFourBg .our{
+    display: flex;
+    flex-direction: row;
+}
+@media screen and (max-width: 991px){
+    .DigitalStartupsSetionFourBg .our{
+        display: flex;
+        flex-direction: column;
+    }
+}

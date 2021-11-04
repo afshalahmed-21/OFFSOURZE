@@ -1,0 +1,502 @@
+.HomePageMainBanner {
+    background-image: url('../images/HomePage/HomePageMainBanner.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px 50px;
+    height: 100vh;
+    position: relative;
+}
+
+img.MainSectionBannerLine {
+    position: absolute;
+    z-index: 999;
+    right: 70px;
+    left: 0;
+    width: 100%;
+    max-width: 340px;
+    height: 100%;
+    min-height: 640px;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    z-index: 0;
+}
+
+.VerticallyCenter {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    transform: translate(0%, -50%);
+    -webkit-transform: translate(0%, -50%);
+    margin: auto;
+    display: block;
+    width: 100%;
+}
+
+img.Earth {
+    -webkit-animation: spin 54s linear infinite;
+    -moz-animation: spin 54s linear infinite;
+    animation: spin 54s linear infinite;
+    width: 100%;
+    max-width: 530px;
+    opacity: 0.9;
+    margin: auto;
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: -80%;
+}
+
+@keyframes sf-fly-by-1 {
+    from {
+        transform: translateZ(-600px);
+        opacity: .5
+    }
+    to {
+        transform: translateZ(0);
+        opacity: .5
+    }
+}
+
+@keyframes sf-fly-by-2 {
+    from {
+        transform: translateZ(-1200px);
+        opacity: .5
+    }
+    to {
+        transform: translateZ(-600px);
+        opacity: .5
+    }
+}
+
+@keyframes sf-fly-by-3 {
+    from {
+        transform: translateZ(-1800px);
+        opacity: .5
+    }
+    to {
+        transform: translateZ(-1200px);
+        opacity: .5
+    }
+}
+
+.star-field {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    perspective: 600px;
+    -webkit-perspective: 600px;
+    z-index: -1
+}
+
+.star-field .layer {
+    box-shadow: -411px -476px #cccccc, 777px -407px #d4d4d4, -387px -477px #fcfcfc, -91px -235px #d4d4d4, 491px -460px #f7f7f7, 892px -128px #f7f7f7, 758px -277px #ededed, 596px 378px #cccccc, 647px 423px whitesmoke, 183px 389px #c7c7c7, 524px -237px #f0f0f0, 679px -535px #e3e3e3, 158px 399px #ededed, 157px 249px #ededed, 81px -450px #ebebeb, 719px -360px #c2c2c2, -499px 473px #e8e8e8, -158px -349px #d4d4d4, 870px -134px #cfcfcf, 446px 404px #c2c2c2, 440px 490px #d4d4d4, 414px 507px #e6e6e6, -12px 246px #fcfcfc, -384px 369px #e3e3e3, 641px -413px #fcfcfc, 822px 516px #dbdbdb, 449px 132px #c2c2c2, 727px 146px #f7f7f7, -315px -488px #e6e6e6, 952px -70px #e3e3e3, -869px -29px #dbdbdb, 502px 80px #dedede, 764px 342px #e0e0e0, -150px -380px #dbdbdb, 654px -426px #e3e3e3, -325px -263px #c2c2c2, 755px -447px #c7c7c7, 729px -177px #c2c2c2, -682px -391px #e6e6e6, 554px -176px #ededed, -85px -428px #d9d9d9, 714px 55px #e8e8e8, 359px -285px #cfcfcf, -362px -508px #dedede, 468px -265px #fcfcfc, 74px -500px #c7c7c7, -514px 383px #dbdbdb, 730px -92px #cfcfcf, -112px 287px #c9c9c9, -853px 79px #d6d6d6, 828px 475px #d6d6d6, -681px 13px #fafafa, -176px 209px #f0f0f0, 758px 457px #fafafa, -383px -454px #ededed, 813px 179px #d1d1d1, 608px 98px whitesmoke, -860px -65px #c4c4c4, -572px 272px #f7f7f7, 459px 533px #fcfcfc, 624px -481px #e6e6e6, 790px 477px #dedede, 731px -403px #ededed, 70px -534px #cccccc, -23px 510px #cfcfcf, -652px -237px whitesmoke, -690px 367px #d1d1d1, 810px 536px #d1d1d1, 774px 293px #c9c9c9, -362px 97px #c2c2c2, 563px 47px #dedede, 313px 475px #e0e0e0, 839px -491px #e3e3e3, -217px 377px #d4d4d4, -581px 239px #c2c2c2, -857px 72px #cccccc, -23px 340px #dedede, -837px 246px white, 170px -502px #cfcfcf, 822px -443px #e0e0e0, 795px 497px #e0e0e0, -814px -337px #cfcfcf, 206px -339px #f2f2f2, -779px 108px #e6e6e6, 808px 2px #d4d4d4, 665px 41px #d4d4d4, -564px 64px #cccccc, -380px 74px #cfcfcf, -369px -60px #f7f7f7, 47px -495px #e3e3e3, -383px 368px #f7f7f7, 419px 288px #d1d1d1, -598px -50px #c2c2c2, -833px 187px #c4c4c4, 378px 325px whitesmoke, -703px 375px #d6d6d6, 392px 520px #d9d9d9, -492px -60px #c4c4c4, 759px 288px #ebebeb, 98px -412px #c4c4c4, -911px -277px #c9c9c9;
+    transform-style: preserve-3d;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 4px;
+    width: 4px;
+    border-radius: 2px
+}
+
+.star-field .layer:nth-child(1) {
+    animation: sf-fly-by-1 5s linear infinite
+}
+
+.star-field .layer:nth-child(2) {
+    animation: sf-fly-by-2 5s linear infinite
+}
+
+.star-field .layer:nth-child(3) {
+    animation: sf-fly-by-3 5s linear infinite
+}
+
+.slider01 {
+    text-align: center;
+    color: #fff;
+    margin-top: 14%;
+}
+
+.slider01 .slick-dots {
+    list-style: none;
+    display: flex;
+    margin: auto;
+    right: 0;
+    left: 0;
+    justify-content: center;
+    padding: 0;
+}
+
+.slider01 button {
+    background: #fff;
+    border: none;
+    margin: 20px 10px;
+    width: 100%;
+    max-width: 20px;
+    height: 4px;
+    color: transparent;
+    border-radius: 50px;
+}
+
+.slider01 .slick-active button {
+    background: #dd9327;
+}
+
+.slider02 {
+    width: 100%;
+    margin: auto;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.slider02 h3 {
+    text-align: center;
+    color: #fff;
+}
+
+.HomePageSectionTwo {
+    padding: 70px 10px;
+    position: relative;
+}
+
+.textBg {
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(rgb(255, 255, 255) 46%, rgb(255, 255, 255) 49%, rgb(255, 255, 255) 80%);
+    text-align: center;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 1px #6610a3;
+    -webkit-filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.2));
+    filter: drop-shadow #6610a3;
+    font-size: 3rem;
+    font-weight: 800;
+    margin-bottom: 0;
+    line-height: 1;
+    display: block;
+}
+
+img.SectionTwoShapes {
+    width: 100%;
+    position: absolute;
+    max-width: 140px;
+    left: 0;
+    top: 0;
+}
+
+.WhyOffSourze h2 {
+    color: #001b80;
+    line-height: 0.8;
+    z-index: 99999999;
+    position: relative;
+    box-shadow: 0rem -1rem 1rem rgba(255, 255, 255)!important;
+    background-image: linear-gradient(45deg, #fff, #fff);
+    margin-top: -12px;
+    font-size: 1.7rem;
+}
+
+img.SectionTwoShape2 {
+    position: absolute;
+    right: -30px;
+    bottom: 80px;
+    width: 100%;
+    max-width: 80px;
+    z-index: 0;
+    -webkit-animation: rotate 10s linear infinite;
+    -moz-animation: rotate 10s linear infinite;
+    animation: rotate 10s linear infinite;
+    animation: float 6s infinite;
+}
+
+img.SectionTwoShape3 {
+    position: absolute;
+    right: -30px;
+    width: 100%;
+    max-width: 100px;
+    bottom: 20px;
+    -webkit-animation: rotate 10s linear infinite;
+    -moz-animation: rotate 10s linear infinite;
+    animation: rotate 10s linear infinite;
+    animation: float 6s infinite;
+}
+
+img.SectionTwoShape4 {
+    position: absolute;
+    right: 50px;
+    width: 100%;
+    max-width: 60px;
+    bottom: 10px;
+    -webkit-animation: rotate 10s linear infinite;
+    -moz-animation: rotate 10s linear infinite;
+    animation: rotate 10s linear infinite;
+    animation: float 6s infinite;
+}
+
+.HomePageSectionTwo {
+    overflow: hidden;
+}
+
+.SectionThree {
+    background: transparent;
+    text-align: center;
+    margin: 0px;
+    position: relative;
+    width: 100%;
+    right: 0;
+    left: 0;
+    margin: auto;
+    display: block;
+    overflow-y: hidden;
+    padding: 30px 20px;
+}
+
+canvas {
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient( 45deg, #6610a3, #001b80);
+    max-height: 450px;
+    min-height: 450px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.slider02 .slick-prev.slick-arrow {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.slider02 .slick-next.slick-arrow {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.slider02 .slick-prev.slick-arrow,
+.slider02 .slick-next.slick-arrow {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background: transparent;
+    border: none;
+    color: #fff;
+    font-weight: 600;
+    font-size: 0.6rem;
+    z-index: 10;
+}
+
+button.slick-prev.slick-arrow::before {
+    content: '\f053';
+    position: relative;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    font-size: 2rem;
+    top: 7px;
+}
+
+button.slick-next.slick-arrow::after {
+    content: '\f054';
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    font-size: 2rem;
+    position: relative;
+    top: 9px;
+}
+
+.SliderImageBg01 {
+    background: url('../images/SliderImages/SliderImageBg01.png');
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.SliderImageBg02 img,
+.SliderImageBg03 img,
+.SliderImageBg04 img,
+.SliderImageBg01 img {
+    animation: float 6s infinite;
+    margin-top: 40px;
+}
+
+.SliderImageBg02 {
+    background: url('../images/SliderImages/SliderImageBg02.png');
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.SliderImageBg03 {
+    background: url('../images/SliderImages/SliderImageBg03.png');
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.SliderImageBg04 {
+    background: url('../images/SliderImages/SliderImageBg04.png');
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.HomePageSectionFive {
+    background-image: linear-gradient( 45deg, #6610a3, #001b80);
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 20px;
+}
+
+.OffsourzetextBg {
+    background: -webkit-linear-gradient(#6610a3 20%, #6610a3 70%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: #401496;
+    font-weight: 800;
+    line-height: 0;
+    z-index: 9999;
+    font-style: italic;
+    font-size: 6rem;
+    text-align: center;
+    opacity: 0.7;
+}
+.consultation{
+    top: 121px;
+    position: relative;
+}
+.ConsultationText {
+    position: relative;
+    top: 120px;
+}
+.HomePageSectionThree {
+    background: url('../images/HomePage/HomePageSectionThree.jpg');
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 50px 20px;
+    position: relative;
+}
+
+img.HomePageSectionThreeLine {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    max-width: 100px;
+}
+
+.WeOffer h1 {
+    color: #3c1495;
+}
+
+.HowWeWork h4 {
+    color: #dd9327;
+}
+
+.HowWeWork {
+    position: relative;
+}
+
+.HowWeWork p {
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.HowWeWork::before {
+    content: '';
+    background: url('../images/Shapes/HowWeWorksLine.png');
+    height: 100%;
+    min-height: 500px;
+    width: 300px;
+    position: absolute;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    left: 0px;
+    top: -100px;
+}
+
+.SectionThree {
+    background: url('../images/HomePage/HomePageBanner5.jpg');
+}
+
+.MainBannerContactUs {
+    transform: rotate( -90deg);
+    position: absolute;
+    height: 70%;
+    width: 40%;
+    top: 0;
+    left: -40px;
+    bottom: 0;
+    margin: auto;
+}
+
+a.MailTo,
+a.CallTo {
+    color: #fff;
+    font-size: 0.8rem;
+    position: relative;
+    text-decoration: none;
+}
+
+.MainSectionImg02 {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    max-width: 100px;
+    right: 0;
+    -webkit-animation: float 4s infinite;
+    -moz-animation: float 4s infinite;
+    -animation: float 4s infinite;
+}
+
+.MainSectionImg01 {
+    position: absolute;
+    width: 100%;
+    max-width: 400px;
+    right: 0;
+    -webkit-animation: float 3s infinite;
+    -moz-animation: float 3s infinite;
+    -animation: float 3s infinite;
+}
+
+.MainSectionImg03 {
+    width: 100%;
+    max-width: 120px;
+    position: absolute;
+    right: 0;
+    bottom: -100px;
+    -webkit-animation: float 2s infinite;
+    -moz-animation: float 2s infinite;
+    -animation: float 2s infinite;
+}
+
+.MainSectionImg04 {
+    position: absolute;
+    width: 100%;
+    max-width: 100px;
+    left: 0;
+    bottom: 0;
+    -webkit-animation: float 2s infinite;
+    -moz-animation: float 2s infinite;
+    -animation: float 2s infinite;
+}
+
+.Process {
+    background: transparent;
+    border: none;
+}
+
+.process01 img {
+    max-width: 200px;
+    height: 100%;
+    max-height: 200px;
+    object-fit: contain;
+}
