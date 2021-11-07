@@ -231,58 +231,65 @@
             <div class="col-lg-4">
                 <div class="card cardRounded">
                     <div class="card-title">
-                        Basic
+                        Blog Writing
                     </div>
                     <ul>
-                        <li>Logo Design</li>
-                        <li>Brand Website</li>
-                        <li>Social Media Presence</li>
-                        <li>Marketing Material</li>
-                        <li>Operational Support</li>
-                        <li>Dialpad & Zendesk</li>
+                        <li>100% Original Content</li>
+                        <li>Topics As Per Request</li>
+                        <li>SEO Friendly</li>
+                        <li>72 Hours Turnaround Time</li>
+                        <li>Copyrights</li>
+                        <li>100% Plagiarism-Free</li>
+                        <li>Unlimited Revisions</li>
+                        <li>Proofing & Editing By Experts</li>
                     </ul>
-                    <div class="col-lg-4 m-auto mt-3">
-                        <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
+                    <div class="pricingBox">
+                        <h2><Span>$</Span> 15 <span>USD</span></h2>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4">
                 <div class="card cardRounded">
                     <div class="card-title">
-                        Standard
+                        Article Writing
                     </div>
                     <ul>
-                        <li>Logo Design</li>
-                        <li>Brand Website</li>
-                        <li>Social Media Presence</li>
-                        <li>Marketing Material</li>
-                        <li>Operational Support</li>
-                        <li>Dialpad & Zendesk</li>
-                        <li>Lead Generation (PPC or Facebook USD 400)</li>
+                        <li>Engaging, Product-Focused Content</li>
+                        <li>72 Hours Turnaround Time</li>
+                        <li>Professional Marketing Campaigns</li>
+                        <li>100% Plagiarism-Free</li>
+                        <li>Unlimited Revisions</li>
+                        <li>Written On Specific Keywords</li>
+                        <li>Proofing & Editing By Experts</li>
                     </ul>
-                    <div class="col-lg-4 m-auto mt-3">
+                    <!-- <div class="col-lg-4 m-auto mt-3">
                         <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
+                    </div> -->
+                    <div class="pricingBox">
+                        <h2><Span>$</Span> 15 <span>USD</span></h2>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4">
                 <div class="card cardRounded shadow-lg">
                     <div class="card-title">
-                        Premium
+                        Web Content
                     </div>
                     <ul>
-                        <li>Logo Design</li>
-                        <li>Brand Website</li>
-                        <li>Social Media Presence</li>
-                        <li>Marketing Material</li>
-                        <li>Operational Support</li>
-                        <li>Dialpad & Zendesk</li>
-                        <li>Dialpad & Zendesk</li>
-                        <li>Lead Generation (PPC or Facebook USD 400)</li>
-                        <li>Live Agent</li>
+                        <li>Product-Focused Content</li>
+                        <li>72 Hours Turnaround Time</li>
+                        <li>Marketing Campaigns</li>
+                        <li>100% Plagiarism-Free</li>
+                        <li>Unlimited Revisions</li>
+                        <li>Copyrights</li>
+                        <li>According To Exact Content</li>
+                        <li>Proofing & Editing By Experts</li>
                     </ul>
-                    <div class="col-lg-4 m-auto mt-3">
+                    <!-- <div class="col-lg-4 m-auto mt-3">
                         <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
+                    </div> -->
+                    <div class="pricingBox">
+                        <h2><Span>$</Span> 40 <span>USD</span></h2>
                     </div>
                 </div>
             </div>

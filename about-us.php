@@ -70,15 +70,25 @@
 </section>
 <section>
     <div class="Worlwide">
-        <img class="map" src="Assets/images/AboutUS/worldWideBg.png" alt="">
-        <img class="Glob" src="Assets/images/AboutUS/worldWideGlob.png" alt="">
         <div class="mainBannerHeading">
-            <h1>Worldwide</h1>
-            <h4>Just like internet, we are everywhere</h4>
-            <p>We have our offices in different continents providing digital solutions to the brands all over the world.<br>
-                With our head office in Karachi (asia) looking after the core functions of your brand, we provide including<br>
-                all b2b marketing, branding design, digital marketing, web design solutions, web development,<br>
-                mobile app development, and virtual reality services.</p>
+            <div class="row">
+                <div class="col-md-3">
+                </div>
+                <div class="col-md-7">
+                    <h1>Worldwide</h1>
+                    <br>
+                    <h4>Just like internet, we are everywhere</h4>
+                    <br>
+                    <p>We have our offices in different continents providing digital solutions to the brands all over the world.<br>
+                        With our head office in Karachi (asia) looking after the core functions of your brand, we provide including<br>
+                        all b2b marketing, branding design, digital marketing, web design solutions, web development,<br>
+                        mobile app development, and virtual reality services.</p>
+                </div>
+                <div class="col-md-2">
+                </div>
+
+            </div>
+
         </div>
     </div>
 </section>

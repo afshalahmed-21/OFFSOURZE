@@ -2,6 +2,11 @@
 <?php include 'CommonFile/Header.php'; ?>
 
 <link rel="stylesheet" href="./Assets/css/HomePageCss.css">
+<!-- <link rel="stylesheet" href="./Assets/css/HoneyComb.scss"> -->
+<link rel="stylesheet" href="./Assets/css/HoneyComb.scss">
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,800italic,400,700,800' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Raleway:400,700,300,200,100,900' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Amatic+SC:400,700' rel='stylesheet' type='text/css'>
 
 <section>
     <div class="HomePageMainBanner">
@@ -170,7 +175,57 @@
                         </p>
                     </div>
                     <div class="col-lg-9 m-auto">
-                        <img class="w-100" data-aos="zoom-in" data-aos-duration="2000" src="Assets/images/HomePage/Services-We-Offer-02.png" alt="">
+                        <!-- <img class="w-100" data-aos="zoom-in" data-aos-duration="2000" src="Assets/images/HomePage/Services-We-Offer-02.png" alt=""> -->
+                        <ul class="honeycomb">
+                            <li class="honeycomb-cell">
+                                <a id="GFG" href="white-labeling.php">
+                                    <div class="honeycomb-cell_title">Video
+                                        Animation</div>
+                                </a>
+                            </li>
+                            <li class="honeycomb-cell">
+                                <a id="GFG" href="https://www.youtube.com/watch?v=FAHbGHVwH_E&t=2s">
+                                    <div class="honeycomb-cell_title">Web Design &
+                                        Development</div>
+                                </a>
+                            </li>
+                            <li class="honeycomb-cell">
+                                <a id="GFG" href="https://www.youtube.com/watch?v=FAHbGHVwH_E&t=2s">
+                                    <div class="honeycomb-cell_title">Corporate
+                                        Branding</div>
+                                </a>
+                            </li>
+                            <li class="honeycomb-cell">
+                                <a id="GFG" href="https://www.youtube.com/watch?v=FAHbGHVwH_E&t=2s">
+                                    <div class="honeycomb-cell_title">Logo
+                                        Design</div>
+                                </a>
+                            </li>
+                            <li class="honeycomb-cell">
+                                <a id="GFG" href="https://www.youtube.com/watch?v=FAHbGHVwH_E&t=2s">
+                                    <div class="honeycomb-cell_title">App Designing &
+                                        Development</div>
+                                </a>
+                            </li>
+                            <li class="honeycomb-cell">
+                                <a id="GFG" href="https://www.youtube.com/watch?v=FAHbGHVwH_E&t=2s">
+                                    <div class="honeycomb-cell_title">Digital
+                                        Marketing</div>
+                                </a>
+                            </li>
+                            <!-- <li class="honeycomb-cell">
+                                <a id="GFG" href="https://www.youtube.com/watch?v=FAHbGHVwH_E&t=2s">
+                                    <div class="honeycomb-cell_title">Share Design</div>
+                                </a>
+                            </li>
+                            <li class="honeycomb-cell">
+                                <a id="GFG" href="https://www.youtube.com/watch?v=FAHbGHVwH_E&t=2s">
+                                    <div class="honeycomb-cell_title">Share Design</div>
+                                </a>
+                            </li> -->
+                            <li class="honeycomb-cell honeycomb_Hidden">
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -178,7 +233,9 @@
         <img class="HomePageSectionThreeLine" src="Assets/images/HomePage/HomePageSectionThreeLine.png" alt="">
     </div>
 </section>
-
+<br>
+<br>
+<br>
 <section>
     <div class="HomePageSectionFive">
         <div class="star-field">

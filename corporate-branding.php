@@ -94,7 +94,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-6 m-auto"  data-aos="fade-left">
+            <div class="col-lg-6 m-auto" data-aos="fade-left">
                 <div class="ContentHeading">
                     <h2>We have Design Easy Ways</h2>
                     <p>
@@ -181,13 +181,14 @@
                         Standard
                     </div>
                     <ul>
-                        <li>Logo Design</li>
-                        <li>Brand Website</li>
-                        <li>Social Media Presence</li>
-                        <li>Marketing Material</li>
+                        <li>Invoice Design</li>
+                        <li>Flyer Design</li>
+                        <li>Stamp Design</li>
+                        <li>Email Signature</li>
                         <li>Operational Support</li>
-                        <li>Dialpad & Zendesk</li>
-                        <li>Lead Generation (PPC or Facebook USD 400)</li>
+                        <li>Business Card</li>
+                        <li>Letterhead</li>
+                        <li>Envelope</li>
                     </ul>
                     <div class="pricingBox">
                         <h2><Span>$</Span> 99 <span>USD</span></h2>
@@ -203,15 +204,15 @@
                         Premium
                     </div>
                     <ul>
-                        <li>Logo Design</li>
-                        <li>Brand Website</li>
-                        <li>Social Media Presence</li>
-                        <li>Marketing Material</li>
-                        <li>Operational Support</li>
-                        <li>Dialpad & Zendesk</li>
-                        <li>Dialpad & Zendesk</li>
-                        <li>Lead Generation (PPC or Facebook USD 400)</li>
-                        <li>Live Agent</li>
+                        <li>Web Banner</li>
+                        <li>Social Covers</li>
+                        <li>Invoice Design</li>
+                        <li>Flyer Design</li>
+                        <li>Stamp Design</li>
+                        <li>Email Signature</li>
+                        <li>Business Card</li>
+                        <li>Letterhead</li>
+                        <li>Envelope</li>
                     </ul>
                     <div class="pricingBox">
                         <h2><Span>$</Span> 139 <span>USD</span></h2>

@@ -35,6 +35,8 @@
                                 <a href="social-media-marketing.php" class="dropdown-item">Social Media Marketing</a>
                                 <a href="services-app-development.php" class="dropdown-item">App Development</a>
                                 <a href="services-content.php" class="dropdown-item">Content Writing</a>
+                                <a href="services-lead-genration.php" class="dropdown-item">Lead Generation</a>
+                                <a href="seo.php" class="dropdown-item">SEO</a>
                             </div>
                         </div>
                     </li>

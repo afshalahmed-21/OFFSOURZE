@@ -234,24 +234,22 @@
     </div>
 </section>
 
-<section class="DigitalStartupsSetionNineBg">
+<section class="DigitalStartupsSetionNineBgg ">
     <div class="container">
         <div class="col-lg-4 m-auto text-center mt-3 mb-5">
             <h2><strong>Packages</strong></h2>
         </div>
         <div class="row">
             <div class="col-lg-4">
-                <div class="card cardRounded">
-                    <div class="card-title">
-                        Basic
+                <div class="card cardRoundedd">
+                    <div class="card-title center">
+                        Android
+                    </div>
+                    <div class="pricingBox">
+                        <h2><Span>$</Span> 20-25 <span>USD</span></h2>
                     </div>
                     <ul>
-                        <li>Logo Design</li>
-                        <li>Brand Website</li>
-                        <li>Social Media Presence</li>
-                        <li>Marketing Material</li>
-                        <li>Operational Support</li>
-                        <li>Dialpad & Zendesk</li>
+                        <li>Per Hour</li>
                     </ul>
                     <div class="col-lg-4 m-auto mt-3">
                         <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
@@ -259,18 +257,15 @@
                 </div>
             </div>
             <div class="col-lg-4">
-                <div class="card cardRounded">
-                    <div class="card-title">
-                        Standard
+                <div class="card cardRoundedd">
+                    <div class="card-title center">
+                        IOS
+                    </div>
+                    <div class="pricingBox">
+                        <h2><Span>$</Span> 20-25 <span>USD</span></h2>
                     </div>
                     <ul>
-                        <li>Logo Design</li>
-                        <li>Brand Website</li>
-                        <li>Social Media Presence</li>
-                        <li>Marketing Material</li>
-                        <li>Operational Support</li>
-                        <li>Dialpad & Zendesk</li>
-                        <li>Lead Generation (PPC or Facebook USD 400)</li>
+                        <li>Per Hour</li>
                     </ul>
                     <div class="col-lg-4 m-auto mt-3">
                         <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
@@ -278,20 +273,16 @@
                 </div>
             </div>
             <div class="col-lg-4">
-                <div class="card cardRounded shadow-lg">
-                    <div class="card-title">
-                        Premium
+                <div class="card cardRoundedd">
+                    <div class="card-title center">
+                        Android &
+                        IOS Hybrid
+                    </div>
+                    <div class="pricingBox">
+                        <h2><Span>$</Span> 20-30 <span>USD</span></h2>
                     </div>
                     <ul>
-                        <li>Logo Design</li>
-                        <li>Brand Website</li>
-                        <li>Social Media Presence</li>
-                        <li>Marketing Material</li>
-                        <li>Operational Support</li>
-                        <li>Dialpad & Zendesk</li>
-                        <li>Dialpad & Zendesk</li>
-                        <li>Lead Generation (PPC or Facebook USD 400)</li>
-                        <li>Live Agent</li>
+                        <li>Per Hour</li>
                     </ul>
                     <div class="col-lg-4 m-auto mt-3">
                         <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>

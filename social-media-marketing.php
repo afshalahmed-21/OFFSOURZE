@@ -19,10 +19,10 @@
     <div class="DigitalStartupsSetionTwoBg">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4 m-auto"  data-aos="fade-right">
+                <div class="col-lg-4 m-auto" data-aos="fade-right">
                     <img class="w-100 m-auto d-block DigitalStartupsSetionImg01" src="Assets/images/Services/SocialMediaMarketing/SocialMediamarketingImg01.png" alt="">
                 </div>
-                <div class="col-lg-7 m-auto"  data-aos="fade-left">
+                <div class="col-lg-7 m-auto" data-aos="fade-left">
                     <div class="smartWork">
                         <h2>
                             <strong>
@@ -52,7 +52,7 @@
 <section class="DigitalStartupsSetionThreeBg">
     <div class="container">
         <div class="row">
-            <div class="col-lg-5 m-auto"  data-aos="fade-right">
+            <div class="col-lg-5 m-auto" data-aos="fade-right">
                 <div class="ServicesList mb-4">
                     <div class="row">
                         <div class="col-6 col-lg-5 m-auto">
@@ -162,7 +162,7 @@
         <div class="row">
             <img class="MainSectionImg06" src="Assets/images/HomePage/MainSectionImg06.png" alt="">
             <div class="col-lg-4"></div>
-            <div class="col-lg-6 m-auto"  data-aos="fade-right">
+            <div class="col-lg-6 m-auto" data-aos="fade-right">
                 <h2>
                     <i>Branding & Strategy</i>
                 </h2>
@@ -183,7 +183,7 @@
 <section class="SocialMediaBgSeven">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6 m-auto"  data-aos="fade-left">
+            <div class="col-lg-6 m-auto" data-aos="fade-left">
                 <h2>
                     <i>Content & Posts</i>
                 </h2>
@@ -208,7 +208,7 @@
         <div class="row">
             <img class="MainSectionImg06" src="Assets/images/HomePage/MainSectionImg06.png" alt="">
             <div class="col-lg-4"></div>
-            <div class="col-lg-6 m-auto"  data-aos="fade-right">
+            <div class="col-lg-6 m-auto" data-aos="fade-right">
                 <h2>
                     <i>Paid Social Marketing</i>
                 </h2>
@@ -235,7 +235,7 @@
             <div class="col-lg-4">
                 <div class="card cardRounded">
                     <div class="card-title">
-                        Small
+                        Small Package
                     </div>
                     <ul>
                         <li>Page Management (2 Platforms)</li>

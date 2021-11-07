@@ -22,7 +22,7 @@
                 <div class="col-lg-4 m-auto" data-aos="fade-right">
                     <img class="w-100 m-auto DigitalStartupsSetionImg01" src="Assets/images/Services/WebDevelopment/WebDevelopment01.png" alt="">
                 </div>
-                <div class="col-lg-7 m-auto"  data-aos="fade-left">
+                <div class="col-lg-7 m-auto" data-aos="fade-left">
                     <div class="smartWork">
                         <h2>
                             <strong>
@@ -161,7 +161,7 @@
         <div class="row">
             <img class="MainSectionImg06" src="Assets/images/HomePage/MainSectionImg06.png" alt="">
             <div class="col-lg-4"></div>
-            <div class="col-lg-6 m-auto"  data-aos="fade-right">
+            <div class="col-lg-6 m-auto" data-aos="fade-right">
                 <h2>
                     <i>Basic Website</i>
                 </h2>
@@ -210,6 +210,8 @@
     <div class="container">
         <div class="col-lg-4 m-auto text-center mt-3 mb-5">
             <h2><strong>Packages</strong></h2>
+            <button class="btn basic">Basic</button>
+            <button class="btn ecommerce">Ecommerce</button>
         </div>
         <div class="slider04">
             <div>

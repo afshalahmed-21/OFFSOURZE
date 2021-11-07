@@ -22,3 +22,19 @@
     color: #D78D27;
     font-weight: 500;
 }
+.basic{
+    background-color: #3C1491;
+    color: white;
+    width: 8rem;
+}
+.basic:hover{
+    color: white;
+}
+.ecommerce{
+    border: 1px solid #3C1491;
+    color: #3C1491;
+    font-weight: 800;
+}
+.ecommerce:hover{
+    color: #3C1491;
+}

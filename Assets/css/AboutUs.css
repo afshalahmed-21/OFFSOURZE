@@ -16,7 +16,11 @@
     margin-left: 85%
 }
 .Worlwide{
-    background-image: linear-gradient(45deg, #6610a3, #001b80);
+    background-image: url('../images/AboutUS/AboutUsWorldWidedBG-02.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 156px 15px 0;
 }
 .Worlwide img.map{
     height: 300px;
@@ -29,20 +33,18 @@
     right: 46rem;
 }
 .Worlwide h1{
-    position: relative;
-    left: 340px;
-    top: -13rem;
+    color: white;
+    
+}
+.Worlwide{
+    box-sizing: border-box;
 }
 .Worlwide h4{
-    top: -174px;
-    position: relative;
-    left: 340px;
+    
     color: white;
 }
 .Worlwide p{
-    top: -130px;
-    position: relative;
-    left: 340px;
+    padding: 0px;
     color: white;
 }
 .SettingBox img.Setting{
@@ -53,6 +55,21 @@
 .SettingBox img.SettingMan{
     height: 20rem;
     position: relative;
-    top: 20rem;
+    top: 22.1rem;
     right: 7rem;
+
+}
+@media screen and (max-width: 991px){
+    .SettingBox img.Setting{
+        display: none;
+    }
+    .SettingBox img.SettingMan{
+        display: none;
+    }
+    .Worlwide img.map{
+        display: none;
+    }
+    .Worlwide img.Glob{
+        display: none;
+    }
 }

@@ -20,7 +20,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 m-auto" data-aos="fade-right">
-                    <img class="w-50 m-auto d-block DigitalStartupsSetionImg01" src="Assets/images/WhitLabling/WhiteLabelingFirstIcon-02.png" alt="">
+                    <img class="w-100 m-auto d-block DigitalStartupsSetionImg01" src="Assets/images/WhitLabling/WhiteLabelingFirstIcon-02.png" alt="">
                 </div>
                 <div class="col-lg-7 m-auto" data-aos="fade-left">
                     <div class="smartWork">
