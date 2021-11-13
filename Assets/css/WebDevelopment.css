@@ -1,0 +1,53 @@
+.WebDevelopmentBgsix {
+    background: url('../images/WebDevelopment/WebDevBg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+
+.WebDevelopmentBgsix h2 {
+    color: #D78D27;
+    font-weight: 500;
+}
+
+.WebDevelopmentBgseven {
+    background: url('../images/WebDevelopment/WebDevBg2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+
+.WebDevelopmentBgseven h2 {
+    color: #D78D27;
+    font-weight: 500;
+}
+
+.basic {
+    background-color: #3C1491;
+    color: white;
+    width: 8rem;
+}
+
+.basic:hover {
+    color: white;
+}
+
+.ecommerce {
+    border: 1px solid #3C1491;
+    color: #3C1491;
+    font-weight: 800;
+}
+
+.ecommerce:hover {
+    color: #3C1491;
+}
+
+
+/* .contentprize {
+    position: absolute;
+    transform: translateX(100%);
+} */

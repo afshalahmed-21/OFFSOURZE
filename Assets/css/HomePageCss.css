@@ -11,16 +11,302 @@
 img.MainSectionBannerLine {
     position: absolute;
     z-index: 999;
-    right: 70px;
+    right: 88px;
     left: 0;
     width: 100%;
     max-width: 340px;
     height: 100%;
-    min-height: 640px;
+    min-height: 660px;
     margin: auto;
     top: 0;
     bottom: 0;
     z-index: 0;
+}
+
+
+/* iphone 5/SE */
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) {
+    img.MainSectionBannerLine {
+        position: absolute;
+        z-index: 999;
+        right: 88px;
+        left: -23px;
+        width: 100%;
+        max-width: 340px;
+        height: 100%;
+        min-height: 435px;
+        margin: auto;
+        top: 0;
+        bottom: 0;
+        z-index: 0;
+    }
+}
+
+
+/* Glaxy fold */
+
+@media screen and (min-device-width: 280px) and (max-device-width: 653px) and (-webkit-min-device-pixel-ratio: 2) {
+    img.MainSectionBannerLine {
+        position: absolute;
+        z-index: 999;
+        right: 88px;
+        left: -31px !important;
+        width: 100%;
+        max-width: 340px;
+        height: 100%;
+        min-height: 530px !important;
+        margin: auto;
+        top: 0;
+        bottom: 0;
+        z-index: 0;
+    }
+    .HomePageMainBanner {
+        background-image: url('../images/HomePage/HomePageMainBanner.jpg');
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 0px 0px !important;
+        height: 100vh;
+        position: relative;
+    }
+}
+
+
+/* Moto G */
+
+@media screen and (min-device-width: 360px) {
+    img.MainSectionBannerLine {
+        position: absolute;
+        z-index: 999;
+        right: 88px;
+        left: -29px !important;
+        width: 100%;
+        max-width: 340px;
+        height: 100%;
+        min-height: 610px !important;
+        margin: auto;
+        top: 0;
+        bottom: 0;
+        z-index: 0;
+    }
+}
+
+
+/* pixel 2 */
+
+@media screen and (min-device-width: 411px) {
+    img.MainSectionBannerLine {
+        position: absolute;
+        z-index: 999;
+        right: 88px;
+        left: 0px !important;
+        width: 100%;
+        max-width: 340px;
+        height: 100%;
+        min-height: 640px !important;
+        margin: auto;
+        top: 0;
+        bottom: 0;
+        z-index: 0;
+    }
+}
+
+
+/* iphone 6/7/8 */
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) {
+    img.MainSectionBannerLine {
+        position: absolute;
+        z-index: 999;
+        right: 88px;
+        left: -31px;
+        width: 100%;
+        max-width: 340px;
+        height: 100%;
+        min-height: 526px;
+        margin: auto;
+        top: 0;
+        bottom: 0;
+        z-index: 0;
+    }
+}
+
+@media screen and (device-width: 411px) and (device-height: 731px) and (-webkit-device-pixel-ratio: 3) {
+    img.MainSectionBannerLine {
+        position: absolute;
+        z-index: 999;
+        right: 88px;
+        left: -555px !important;
+        width: 100%;
+        max-width: 340px;
+        height: 100%;
+        min-height: 501px !important;
+        margin: auto;
+        top: 0;
+        bottom: 0;
+        z-index: 0;
+    }
+}
+
+@media only screen and (min-device-width: 540px) and (max-device-width: 720px) and (-webkit-min-device-pixel-ratio: 2) {
+    img.MainSectionBannerLine {
+        position: absolute;
+        z-index: 999;
+        right: 88px;
+        left: 12px;
+        width: 100%;
+        max-width: 340px;
+        height: 100%;
+        min-height: 619px;
+        margin: auto;
+        top: 0;
+        bottom: 0;
+        z-index: 0;
+    }
+}
+
+
+/* iphone 6/7/8 plus*/
+
+@media only screen and (min-device-width: 414px) {
+    img.MainSectionBannerLine {
+        position: absolute;
+        z-index: 999;
+        right: 88px;
+        left: -9px !important;
+        width: 100%;
+        max-width: 340px;
+        height: 100%;
+        min-height: 643px !important;
+        margin: auto;
+        top: 0;
+        bottom: 0;
+        z-index: 0;
+    }
+}
+
+
+/* ----------- iPhone X ----------- */
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) {
+    img.MainSectionBannerLine {
+        position: absolute;
+        z-index: 999;
+        right: 88px;
+        left: -43px;
+        width: 100%;
+        max-width: 340px;
+        height: 100%;
+        min-height: 566px;
+        margin: auto;
+        top: 0;
+        bottom: 0;
+        z-index: 0;
+    }
+}
+
+
+/* ----------- iPad 3, 4 and Pro 9.7" ----------- */
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) {
+    img.MainSectionBannerLine {
+        position: absolute;
+        z-index: 999;
+        right: 88px;
+        left: 0px;
+        width: 100%;
+        max-width: 340px;
+        height: 100%;
+        min-height: 710px;
+        margin: auto;
+        top: 0;
+        bottom: 0;
+        z-index: 0;
+    }
+}
+
+
+/* nest Hub  */
+
+@media screen and (min-device-width: 1024px) {
+    img.MainSectionBannerLine {
+        position: absolute;
+        z-index: 999;
+        right: 88px;
+        left: 37px !important;
+        width: 100%;
+        max-width: 340px;
+        height: 100%;
+        min-height: 607px !important;
+        margin: auto;
+        top: 0;
+        bottom: 0;
+        z-index: 0;
+    }
+}
+
+
+/* ----------- iPad Pro 12.9" ----------- */
+
+
+/* @media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1366px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+    img.MainSectionBannerLine {
+        position: absolute;
+        z-index: 999;
+        right: 88px;
+        left: -46px !important;
+        width: 100%;
+        max-width: 340px;
+        height: 100%;
+        min-height: 782px !important;
+        margin: auto;
+        top: 0;
+        bottom: 0;
+        z-index: 0;
+    }
+} */
+
+
+/* nest Hub max */
+
+@media screen and (min-device-width: 1280px) {
+    img.MainSectionBannerLine {
+        position: absolute;
+        z-index: 999;
+        right: 88px;
+        left: 16px !important;
+        width: 100%;
+        max-width: 340px;
+        height: 100%;
+        min-height: 650px !important;
+        margin: auto;
+        top: 0;
+        bottom: 0;
+        z-index: 0;
+    }
+}
+
+@media (screen-spanning: single-fold-horizontal) {
+    /* styles applied in double-landscape (tall) mode */
+    /* matches Figure 2. below */
+    img.MainSectionBannerLine {
+        position: absolute;
+        z-index: 999;
+        right: 88px;
+        left: 12px !important;
+        width: 100%;
+        max-width: 340px;
+        height: 100%;
+        min-height: 619px !important;
+        margin: auto;
+        top: 0;
+        bottom: 0;
+        z-index: 0;
+    }
 }
 
 .VerticallyCenter {
@@ -191,7 +477,6 @@ img.SectionTwoShapes {
 .WhyOffSourze h2 {
     color: #001b80;
     line-height: 0.8;
-    z-index: 99999999;
     position: relative;
     box-shadow: 0rem -1rem 1rem rgba(255, 255, 255)!important;
     background-image: linear-gradient(45deg, #fff, #fff);
@@ -352,6 +637,7 @@ button.slick-next.slick-arrow::after {
     background-repeat: no-repeat;
     background-size: cover;
     padding: 50px 20px;
+    max-height: 100vh;
 }
 
 .OffsourzetextBg {
@@ -365,6 +651,35 @@ button.slick-next.slick-arrow::after {
     font-size: 6rem;
     text-align: center;
     opacity: 0.7;
+}
+
+.consultation {
+    top: 121px;
+    position: relative;
+}
+
+.ConsultationText {
+    position: relative;
+    top: 120px;
+}
+
+#back-to-top-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 26px;
+    width: 50px;
+    height: 50px;
+    background-color: #fff;
+    color: #3c1595;
+    cursor: pointer;
+    outline: none;
+    border: 3px solid #3c1595;
+    border-radius: 50%;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out;
+    transition-property: background-color, color;
+    z-index: 9999999999999;
 }
 
 .HomePageSectionThree {
@@ -413,7 +728,7 @@ img.HomePageSectionThreeLine {
     background-size: contain;
     background-repeat: no-repeat;
     left: 0px;
-    top: -100px;
+    top: -21px;
 }
 
 .SectionThree {
@@ -453,8 +768,8 @@ a.CallTo {
 .MainSectionImg01 {
     position: absolute;
     width: 100%;
-    max-width: 400px;
-    right: 0;
+    max-width: 550px;
+    right: -90;
     -webkit-animation: float 3s infinite;
     -moz-animation: float 3s infinite;
     -animation: float 3s infinite;

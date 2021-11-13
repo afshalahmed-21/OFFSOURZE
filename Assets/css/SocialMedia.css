@@ -1,0 +1,36 @@
+.SocialMediaBgSix {
+    background: url('../images/SocialMedia/SocialMediaBg1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+.SocialMediaBgSix h2 {
+    color: #D78D27;
+    font-weight: 500;
+}
+.SocialMediaBgSeven {
+        background: url('../images/SocialMedia/SocialMediaBg2.png');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 80px 20px;
+        position: relative;
+    }
+.SocialMediaBgSeven h2 {
+    color: #D78D27;
+    font-weight: 500;
+}
+.SocialMediaBgEight {
+        background: url('../images/SocialMedia/SocialMediaBg3.png');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 80px 20px;
+        position: relative;
+    }
+.SocialMediaBgEight h2 {
+    color: #D78D27;
+    font-weight: 500;
+}

@@ -1,0 +1,36 @@
+.WhiteLablingFirstBg {
+    background: url('../images/WhitLabling/WhiteLabelingFirstBg-02.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+.WhiteLablingFirstBg h2{
+    color: #D78D27;
+    font-weight: 500;
+}
+.WhiteLablingSecondBg {
+    background: url('../images/WhitLabling/WhiteLabelingSecondBg-02.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+.WhiteLablingSecondBg h2{
+    color: #D78D27;
+    font-weight: 500;
+}
+.WhiteLablingThirdBg {
+    background: url('../images/WhitLabling/WhiteLabelingThirdBg-02-02-02.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+.WhiteLablingThirdBg h2{
+    color: #D78D27;
+    font-weight: 500;
+}

@@ -8,7 +8,7 @@
         <div class="container">
             <div class="col-lg-6 m-auto text-center mainBannerHeading mt-5 pt-4 pb-4">
                 <img class="w-100" src="Assets/images/Services/LogoDesign/logoDesignMainBanner.png" alt="">
-                <h1><strong>Logo</strong> Design</h1>
+                <h1 style="bottom: 35px;"><strong>Logo</strong> Design</h1>
             </div>
         </div>
     </div>
@@ -19,7 +19,7 @@
         <div class="container pt-5 pb-5">
             <div class="row">
                 <div class="col-lg-4 m-auto" data-aos="fade-right">
-                    <!-- <img class="w-50 m-auto" src="Assets/images/Plans/DigitalStartups/DigitalStartupsSetionImg01.png" alt=""> -->
+                    <img class="w-100 m-auto DigitalStartupsSetionImg0" src="Assets/images/Plans/DigitalStartups/DigitalStartupsSetionImg0.png" alt="">
                 </div>
                 <div class="col-lg-7 m-auto" data-aos="fade-left">
                     <div class="smartWork">
@@ -38,7 +38,7 @@
                             </strong>
                         </p>
                         <div class="col-lg-4">
-                            <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
+                            <a class="ReadArticle mt-2" href="contact-us.php">Get Started</a>
                         </div>
                     </div>
                 </div>
@@ -146,7 +146,57 @@
             <div class="col-lg-1"></div>
         </div>
         <div class="col-lg-2 m-auto mt-5">
-            <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
+            <a class="ReadArticle mt-2" href="contact-us.php">Get Started</a>
+        </div>
+    </div>
+</section>
+
+<section class="LogoDesignbg1">
+    <div class="container">
+        <div class="row">
+            <img class="MainSectionImg06" src="Assets/images/HomePage/MainSectionImg06.png" alt="">
+            <div class="col-lg-4">
+                <img class="w-100 m-auto DigitalStartupsSetionImg0" src="Assets/images/Plans/DigitalStartups/DigitalStartupsMascot.png" alt="">
+            </div>
+            <div class="col-lg-6 m-auto" data-aos="fade-left">
+                <h2>
+                    <i>Mascot Logo</i>
+                </h2>
+                <p>
+                    <i>
+                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+                    </i>
+                </p>
+
+                <div class="col-lg-2 mt-3">
+                    <a class="ReadArticle mt-2" href="contact-us.php">Get Started</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="LogoDesignbg2">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 m-auto" data-aos="fade-right">
+                <h2>
+                    <i>Startup/Basic Logo</i>
+                </h2>
+                <p>
+                    <i>
+                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+                    </i>
+                </p>
+
+                <div class="col-lg-2 mt-3">
+                    <a class="ReadArticle mt-2" href="contact-us.php">Get Started</a>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <img class="w-100 m-auto DigitalStartupsSetionImg0" src="Assets/images/Plans/DigitalStartups/DigitalStartupsStartUpimg.png" alt="">
+            </div>
+            <img class="MainSectionImg07" src="Assets/images/HomePage/MainSectionImg06.png" alt="">
         </div>
     </div>
 </section>
@@ -160,64 +210,61 @@
             <div class="col-lg-4">
                 <div class="card cardRounded">
                     <div class="card-title">
-                        Basic
+                        Basic Logo / <br> Startup logos
                     </div>
                     <ul>
-                        <li>Business Card</li>
-                        <li>Letterhead</li>
-                        <li>Envelope</li>
+                        <li>2 Original Logo Concepts</li>
+                        <li>4 Revisions</li>
+                        <li>100% Ownership Rights</li>
+                        <li>File Formats: JPEG, PNG & PDF</li>
+                        <li>48 - 72 Hours Turn Around Time</li>
                     </ul>
                     <div class="pricingBox">
-                        <h2><Span>$</Span> 49 <span>USD</span></h2>
+                        <h2><Span>$</Span> 70 <span>USD</span></h2>
                     </div>
                     <div class="col-lg-4 m-auto mt-3">
-                        <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
+                        <a class="ReadArticle mt-2" href="contact-us.php">Get Started</a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4">
                 <div class="card cardRounded">
                     <div class="card-title">
-                        Standard
+                        Premium Logo
                     </div>
                     <ul>
-                        <li>Logo Design</li>
-                        <li>Brand Website</li>
-                        <li>Social Media Presence</li>
-                        <li>Marketing Material</li>
-                        <li>Operational Support</li>
-                        <li>Dialpad & Zendesk</li>
-                        <li>Lead Generation (PPC or Facebook USD 400)</li>
+                        <li>4 Original Logo Concepts</li>
+                        <li>8 Revisions</li>
+                        <li>100% Ownership Rights</li>
+                        <li>File Formats: JPEG, PNG & PDF, EPS, AI</li>
+                        <li>48 - 72 Hours Turn Around Time</li>
                     </ul>
                     <div class="pricingBox">
                         <h2><Span>$</Span> 99 <span>USD</span></h2>
                     </div>
                     <div class="col-lg-4 m-auto mt-3">
-                        <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
+                        <a class="ReadArticle mt-2" href="contact-us.php">Get Started</a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4">
                 <div class="card cardRounded shadow-lg">
                     <div class="card-title">
-                        Premium
+                        Mascot Logo
                     </div>
                     <ul>
-                        <li>Logo Design</li>
-                        <li>Brand Website</li>
-                        <li>Social Media Presence</li>
-                        <li>Marketing Material</li>
-                        <li>Operational Support</li>
-                        <li>Dialpad & Zendesk</li>
-                        <li>Dialpad & Zendesk</li>
-                        <li>Lead Generation (PPC or Facebook USD 400)</li>
-                        <li>Live Agent</li>
+                        <li>(1) Mascot Logo Concepts</li>
+                        <li>10 Revisions</li>
+                        <li>Hand drawn Sketch</li>
+                        <li>Presentation on mockup</li>
+                        <li>48 - 72 Hours Turn Around Time</li>
+                        <li>File Formats: JPEG, PNG & PDF, EPS, AI</li>
                     </ul>
                     <div class="pricingBox">
-                        <h2><Span>$</Span> 139 <span>USD</span></h2>
+                        <h2><Span>$</Span> 170 <span>USD</span></h2>
                     </div>
                     <div class="col-lg-4 m-auto mt-3">
-                        <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
+                        <a class="ReadArticle mt-2" href="contact-us.php">Get Started</a>
                     </div>
                 </div>
             </div>

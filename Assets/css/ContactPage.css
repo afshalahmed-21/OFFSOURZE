@@ -1,0 +1,18 @@
+.ContactForm{
+    background: url('../images/ContactUs/ContactUsFormBg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+.ContactForm form{
+    border-left: 1.5px solid rgb(111, 0, 255);
+    border-right: 1.5px solid rgb(111, 0, 255);
+    padding: 1rem;
+}
+.ContactForm form{
+    box-shadow: -10px 0 20px -5px rgba(147, 103, 153, 0.75),
+                10px 0 20px -5px rgba(147, 103, 153, 0.75);
+}
+

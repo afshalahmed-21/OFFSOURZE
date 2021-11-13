@@ -1,0 +1,65 @@
+.LeadGenrationBg1 {
+    background: url('../images/LeadGenration/ServicesLeadGenerationBg1-02.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+.LeadGenrationBg1 h2{
+    color: #D78D27;
+    font-weight: 500;
+}
+.LeadGenrationBg2 {
+    background: url('../images/LeadGenration/ServicesLeadGenerationBg2-02.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+.LeadGenrationBg2 h2{
+    color: #D78D27;
+    font-weight: 500;
+}
+.LeadGenrationBg3 {
+    background: url('../images/LeadGenration/ServicesLeadGenerationBg3-02.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+.LeadGenrationBg3 h2{
+    color: #D78D27;
+    font-weight: 500;
+}
+.LeadGenrationBg4 {
+    background: url('../images/LeadGenration/ServicesLeadGenerationBg4-02.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+.LeadGenrationBg4 h2{
+    color: #D78D27;
+    font-weight: 500;
+}
+
+.DigitalStartupsSetionFourBg .our{
+    display: flex;
+    flex-direction: row;
+}
+.lead .processImg{
+    max-width: 180px !important;
+}
+img.processImg{
+    max-width: 180px !important;
+}
+@media screen and (max-width: 991px){
+    .DigitalStartupsSetionFourBg .our{
+        display: flex;
+        flex-direction: column;
+    }
+}

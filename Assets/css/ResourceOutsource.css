@@ -1,0 +1,60 @@
+.ResourceOutsourceFirstBg {
+    background: url('../images/ResourceOutsource/ResourceOutsourceFirstBg-02.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+.ResourceOutsourceFirstBg h2 {
+    color: #D78D27;
+    font-weight: 500;
+}
+.ResourceOutsourceSecondBg{
+    background: url('../images/ResourceOutsource/ResourceOutsourceSecondBg-02-02.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+.ResourceOutsourceSecondBg h2{
+    color: #D78D27;
+    font-weight: 500;
+}
+.ResourceOutsourceThirdBg{
+    background: url('../images/ResourceOutsource/ResourceOutsourceThirdBg-02-02.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+.ResourceOutsourceThirdBg h2{
+    color: #D78D27;
+    font-weight: 500;
+}
+.ResourceOutsourceFourthBg{
+    background: url('../images/ResourceOutsource/ResourceOutsourceFourth-02-02-02.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+.ResourceOutsourceFourthBg h2{
+    color: #D78D27;
+    font-weight: 500;
+}
+.ResourceOutsourceFivthBg{
+    background: url('../images/ResourceOutsource/ResourceOutsourceFivthBg-02-02-02.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+.ResourceOutsourceFivthBg h2{
+    color: #D78D27;
+    font-weight: 500;
+}

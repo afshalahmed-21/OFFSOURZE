@@ -8,6 +8,16 @@
     transition: 2s;
 }
 
+.DigitalStartupsSetionTwoBg {
+    background: url('../images/Plans/DigitalStartups/DigitalStartupsSetionTwoBg.png');
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-size: 40% 100%;
+    padding: 15px 10px;
+    position: relative;
+    transition: 2s;
+}
+
 .DigitalStartupsSetionThreeBg {
     background: url('../images/Plans/DigitalStartups/DigitalStartupsSetionThreeBg.png');
     background-position: center center;
@@ -75,6 +85,32 @@ section.DigitalStartupsSetionFourBg {
     object-fit: contain;
 }
 
+.LogoDesignbg1 {
+    background: url('../images/Plans/DigitalStartups/DigitalStartupsMascotbg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+
+.LogoDesignbg2 {
+    background: url('../images/Plans/DigitalStartups/DigitalStartupsStartUpbg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+
+.LogoDesignbg2 h2 {
+    color: #D78D27;
+}
+
+.LogoDesignbg1 h2 {
+    color: #D78D27;
+}
+
 .DigitalStartupsSetionEightBg h2,
 .DigitalStartupsSetionSevenBg h2,
 .DigitalStartupsSetionSixBg h2,
@@ -88,7 +124,7 @@ section.DigitalStartupsSetionFourBg {
 }
 
 .DigitalStartupsSetionSixBg {
-    background: url('../images/Plans/DigitalStartups/DigitalStartupsSetionSix.jpg');
+    background: url('../images/Plans/DigitalStartups/DigitalStartupsSetionSix.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -106,7 +142,7 @@ section.DigitalStartupsSetionFourBg {
 }
 
 .DigitalStartupsSetionEightBg {
-    background: url('../images/Plans/DigitalStartups/DigitalStartupsSetionEight.jpg');
+    background: url('../images/Plans/DigitalStartups/DigitalStartupsSetionEight.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -156,7 +192,7 @@ img.MainSectionImg07 {
     background-image: linear-gradient( 45deg, #6610A1, #001B80);
     text-align: center;
     border-radius: 50%;
-    padding: 70px 50px;
+    padding: 31px 51px;
     color: #fff;
     height: 100%;
     max-height: 400px;
@@ -226,7 +262,27 @@ img.processImg {
     font-style: italic;
 }
 
+.DigitalStartupsSetionImg0,
 .DigitalStartupsSetionImg01,
 .DigitalStartupsSetionImg02 {
     animation: float 6s infinite;
+}
+
+@media screen and (max-width: 991px) {
+    img.MainSectionImg07 {
+        max-width: 303px !important;
+    }
+    img.MainSectionImg06 {
+        max-width: 269px !important;
+    }
+    .cardRounded {
+        background-image: linear-gradient( 45deg, #6610A1, #001B80);
+        text-align: center;
+        border-radius: 50%;
+        padding: 31px 51px;
+        color: #fff;
+        height: 100%;
+        max-height: 344px !important;
+        transition: 1s;
+    }
 }

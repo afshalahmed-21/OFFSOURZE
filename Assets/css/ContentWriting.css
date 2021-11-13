@@ -1,0 +1,46 @@
+.servicesContentOne {
+    background: url('../images/ServicesContent/ServicesContentWritingBg1-02.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+.servicesContentOne h2{
+    color: #D78D27;
+    font-weight: 500;
+}
+.servicesContentTwo{
+    background: url('../images/ServicesContent/ServicesContentWritingBg2-02.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+.servicesContentTwo h2{
+    color: #D78D27;
+    font-weight: 500;
+}
+.servicesContentThree{
+    background: url('../images/ServicesContent/ServicesContentWritingBg3-02.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+.servicesContentThree h2{
+    color: #D78D27;
+    font-weight: 500;
+}
+.DigitalStartupsSetionFourBg .our{
+    display: flex;
+    flex-direction: row;
+}
+@media screen and (max-width: 991px){
+    .DigitalStartupsSetionFourBg .our{
+        display: flex;
+        flex-direction: column;
+    }
+}

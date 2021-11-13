@@ -8,7 +8,7 @@
         <div class="container">
             <div class="col-lg-6 m-auto text-center mainBannerHeading mt-5 pt-4 pb-4">
                 <img class="w-100" src="Assets/images/Plans/DigitalStartups/DigitalStartupsTextBg.png" alt="">
-                <h1><strong>Digital</strong> Startups</h1>
+                <h1 style="bottom: 45px;"><strong>Digital</strong> Startups</h1>
             </div>
         </div>
     </div>
@@ -39,7 +39,7 @@
                             </strong>
                         </p>
                         <div class="col-lg-4">
-                            <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
+                            <a class="ReadArticle mt-2" href="contact-us.php">Get Started</a>
                         </div>
                     </div>
                 </div>
@@ -133,7 +133,7 @@
             </div>
         </div>
         <div class="col-lg-2 m-auto mt-5">
-            <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
+            <a class="ReadArticle mt-2" href="contact-us.php">Get Started</a>
         </div>
     </div>
 </section>
@@ -159,7 +159,7 @@
                             </strong>
                         </p>
                         <div class="col-lg-4">
-                            <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
+                            <a class="ReadArticle mt-2" href="contact-us.php">Get Started</a>
                         </div>
                     </div>
                 </div>
@@ -187,7 +187,7 @@
                 </p>
 
                 <div class="col-lg-2 mt-3">
-                    <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
+                    <a class="ReadArticle mt-2" href="contact-us.php">Get Started</a>
                 </div>
             </div>
         </div>
@@ -208,7 +208,7 @@
                 </p>
 
                 <div class="col-lg-2 mt-3">
-                    <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
+                    <a class="ReadArticle mt-2" href="contact-us.php">Get Started</a>
                 </div>
             </div>
             <div class="col-lg-4"></div>
@@ -233,7 +233,7 @@
                 </p>
 
                 <div class="col-lg-2 mt-3">
-                    <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
+                    <a class="ReadArticle mt-2" href="contact-us.php">Get Started</a>
                 </div>
             </div>
         </div>
@@ -260,7 +260,7 @@
                         <li>Dialpad & Zendesk</li>
                     </ul>
                     <div class="col-lg-4 m-auto mt-3">
-                        <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
+                        <a class="ReadArticle mt-2" href="contact-us.php">Get Started</a>
                     </div>
                 </div>
             </div>
@@ -279,7 +279,7 @@
                         <li>Lead Generation (PPC or Facebook USD 400)</li>
                     </ul>
                     <div class="col-lg-4 m-auto mt-3">
-                        <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
+                        <a class="ReadArticle mt-2" href="contact-us.php">Get Started</a>
                     </div>
                 </div>
             </div>
@@ -300,7 +300,7 @@
                         <li>Live Agent</li>
                     </ul>
                     <div class="col-lg-4 m-auto mt-3">
-                        <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
+                        <a class="ReadArticle mt-2" href="contact-us.php">Get Started</a>
                     </div>
                 </div>
             </div>

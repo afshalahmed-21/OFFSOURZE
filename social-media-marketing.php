@@ -2,13 +2,14 @@
 <?php include 'CommonFile/Header.php'; ?>
 
 <link rel="stylesheet" href="Assets/css/DigitalStartups.css">
+<link rel="stylesheet" href="Assets/css/SocialMedia.css">
 
 <section>
     <div class="innerMainBannerBg">
         <div class="container">
             <div class="col-lg-6 m-auto text-center mainBannerHeading mt-5 pt-4 pb-4">
                 <img class="w-100" src="Assets/images/Services/SocialMediaMarketing/SocialMediaMarketingMainBanner.png" alt="">
-                <h1><strong>Social Media </strong> Marketing</h1>
+                <h1 style="bottom: 15px;"><strong>Social Media </strong> Marketing</h1>
             </div>
         </div>
     </div>
@@ -18,10 +19,10 @@
     <div class="DigitalStartupsSetionTwoBg">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4 m-auto"  data-aos="fade-right">
+                <div class="col-lg-4 m-auto" data-aos="fade-right">
                     <img class="w-100 m-auto d-block DigitalStartupsSetionImg01" src="Assets/images/Services/SocialMediaMarketing/SocialMediamarketingImg01.png" alt="">
                 </div>
-                <div class="col-lg-7 m-auto"  data-aos="fade-left">
+                <div class="col-lg-7 m-auto" data-aos="fade-left">
                     <div class="smartWork">
                         <h2>
                             <strong>
@@ -39,7 +40,7 @@
                             </strong>
                         </p>
                         <div class="col-lg-4">
-                            <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
+                            <a class="ReadArticle mt-2" href="contact-us.php">Get Started</a>
                         </div>
                     </div>
                 </div>
@@ -51,7 +52,7 @@
 <section class="DigitalStartupsSetionThreeBg">
     <div class="container">
         <div class="row">
-            <div class="col-lg-5 m-auto"  data-aos="fade-right">
+            <div class="col-lg-5 m-auto" data-aos="fade-right">
                 <div class="ServicesList mb-4">
                     <div class="row">
                         <div class="col-6 col-lg-5 m-auto">
@@ -151,17 +152,17 @@
             </div>
         </div>
         <div class="col-lg-2 m-auto mt-5">
-            <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
+            <a class="ReadArticle mt-2" href="contact-us.php">Get Started</a>
         </div>
     </div>
 </section>
 
-<section class="DigitalStartupsSetionSixBg">
+<section class="SocialMediaBgSix">
     <div class="container">
         <div class="row">
             <img class="MainSectionImg06" src="Assets/images/HomePage/MainSectionImg06.png" alt="">
             <div class="col-lg-4"></div>
-            <div class="col-lg-6 m-auto"  data-aos="fade-right">
+            <div class="col-lg-6 m-auto" data-aos="fade-right">
                 <h2>
                     <i>Branding & Strategy</i>
                 </h2>
@@ -172,17 +173,17 @@
                 </p>
 
                 <div class="col-lg-2 mt-3">
-                    <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
+                    <a class="ReadArticle mt-2" href="contact-us.php">Get Started</a>
                 </div>
             </div>
         </div>
     </div>
 </section>
 
-<section class="DigitalStartupsSetionSevenBg">
+<section class="SocialMediaBgSeven">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6 m-auto"  data-aos="fade-left">
+            <div class="col-lg-6 m-auto" data-aos="fade-left">
                 <h2>
                     <i>Content & Posts</i>
                 </h2>
@@ -193,7 +194,7 @@
                 </p>
 
                 <div class="col-lg-2 mt-3">
-                    <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
+                    <a class="ReadArticle mt-2" href="contact-us.php">Get Started</a>
                 </div>
             </div>
             <div class="col-lg-4"></div>
@@ -202,12 +203,12 @@
     </div>
 </section>
 
-<section class="DigitalStartupsSetionEightBg">
+<section class="SocialMediaBgEight">
     <div class="container">
         <div class="row">
             <img class="MainSectionImg06" src="Assets/images/HomePage/MainSectionImg06.png" alt="">
             <div class="col-lg-4"></div>
-            <div class="col-lg-6 m-auto"  data-aos="fade-right">
+            <div class="col-lg-6 m-auto" data-aos="fade-right">
                 <h2>
                     <i>Paid Social Marketing</i>
                 </h2>
@@ -218,7 +219,7 @@
                 </p>
 
                 <div class="col-lg-2 mt-3">
-                    <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
+                    <a class="ReadArticle mt-2" href="contact-us.php">Get Started</a>
                 </div>
             </div>
         </div>
@@ -234,7 +235,7 @@
             <div class="col-lg-4">
                 <div class="card cardRounded">
                     <div class="card-title">
-                        Small
+                        Small Package
                     </div>
                     <ul>
                         <li>Page Management (2 Platforms)</li>
@@ -248,7 +249,7 @@
                         <h2><Span>$</Span> 120 <span>USD</span></h2>
                     </div>
                     <div class="col-lg-4 m-auto mt-3">
-                        <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
+                        <a class="ReadArticle mt-2" href="contact-us.php">Get Started</a>
                     </div>
                 </div>
             </div>
@@ -269,7 +270,7 @@
                         <h2><Span>$</Span> 270 <span>USD</span></h2>
                     </div>
                     <div class="col-lg-4 m-auto mt-3">
-                        <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
+                        <a class="ReadArticle mt-2" href="contact-us.php">Get Started</a>
                     </div>
                 </div>
             </div>
@@ -294,7 +295,7 @@
                         <h2><Span>$</Span> 500 <span>USD</span></h2>
                     </div>
                     <div class="col-lg-4 m-auto mt-3">
-                        <a class="ReadArticle mt-2" href="javascript:void(0)">Get Started</a>
+                        <a class="ReadArticle mt-2" href="contact-us.php">Get Started</a>
                     </div>
                 </div>
             </div>

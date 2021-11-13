@@ -1,0 +1,40 @@
+.PricingSection h1 {
+    color: #D78D27;
+}
+
+.PricingSection button {
+    background-image: linear-gradient( 45deg, #6610A1, #001B80);
+    border: none;
+    color: #fff;
+    height: 3rem;
+    width: 15rem;
+}
+
+.PricingSection button:hover {
+    color: #fff;
+}
+
+.PricingSection button {
+    animation: fadeInAnimation ease 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.DigitalStartupsSetionThreeBg {
+    background: url(../images/Plans/DigitalStartups/DigitalStartupsSetionThreeBg.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 100px 10px;
+    position: relative;
+    transition: 2s;
+}

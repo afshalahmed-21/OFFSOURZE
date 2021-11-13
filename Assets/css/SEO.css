@@ -1,0 +1,36 @@
+.SEO1 {
+    background: url('../images/SearchEngineOptimization/SearchEngineOptimizationBg1-02.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+.SEO1 h2 {
+    color: #D78D27;
+    font-weight: 500;
+}
+.SEO2 {
+    background: url('../images/SearchEngineOptimization/SearchEngineOptimizationBg2-02.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+.SEO2 h2 {
+    color: #D78D27;
+    font-weight: 500;
+}
+.SEO3 {
+    background: url('../images/SearchEngineOptimization/SearchEngineOptimizationBg3-02.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 20px;
+    position: relative;
+}
+.SEO3 h2 {
+    color: #D78D27;
+    font-weight: 500;
+}

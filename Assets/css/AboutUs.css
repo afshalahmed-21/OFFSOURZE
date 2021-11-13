@@ -5,3 +5,56 @@
     background-size: cover;
     padding: 10px 15px 0;
 }
+
+.aboutUsSetting img {
+    height: 300px;
+    position: absolute;
+    right: 83%;
+}
+
+.manSetting img {
+    height: 300px;
+    display: block;
+    margin-left: 85%
+}
+
+.Worlwide {
+    height: auto;
+    background-image: url('../images/AboutUS/AboutUsWorldWidedBG-02.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 18rem;
+}
+
+.settingImg {
+    height: 250px;
+    position: absolute;
+    bottom: 0;
+}
+
+.right-0 {
+    right: 0;
+}
+
+.left-0 {
+    left: 0;
+}
+
+.mainSettingImg {
+    width: 60%;
+    min-height: 400px;
+}
+
+@media screen and (min-width: 320px) and (max-width:768px) {
+    .Worlwide {
+        background-size: auto !important;
+        height: 24rem;
+    }
+    .mainSettingImg {
+        min-height: 200px !important;
+    }
+    .settingImg {
+        height: 100px !important;
+    }
+}

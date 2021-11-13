@@ -65,12 +65,19 @@ a.ReadArticle {
 .FreeConsultation {
     border: 2px solid #6610a3;
     border-radius: 10px;
+    position: relative;
+    top: 120px;
 }
 
 .contactUs {
     background: #e2e2e2;
     padding: 20px 0px;
     border-radius: 10px;
+    width: 433px;
+    height: 364px;
+    top: 90px;
+    position: relative;
+    left: 100px;
 }
 
 .contactUs .card-header {
@@ -307,14 +314,22 @@ ul.KARACHI li {
     }
     .DigitalStartupsSetionFive,
     .DigitalStartupsSetionTwoBg {
-        background-size: 20% 40% !important;
+        background-size: 20% 20% !important;
         text-align: center;
     }
     .DigitalStartupsSetionTwoBg img {
-        max-width: 30%;
+        max-width: 85%;
     }
     img.MainSectionImg06 {
         max-width: 300px !important;
         left: -220px !important;
+    }
+    .HomePageSectionThree .FreeConsultation {
+        top: 35px;
+    }
+    .contactUs {
+        left: 0px;
+        width: 303px;
+        height: 403px;
     }
 }
