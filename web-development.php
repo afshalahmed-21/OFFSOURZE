@@ -210,10 +210,10 @@
     <div class="container">
         <div class="col-lg-4 m-auto text-center mt-3 mb-5">
             <h2><strong>Packages</strong></h2>
-            <button class="btn basic">Basic</button>
-            <button class="btn ecommerce">Ecommerce</button>
+            <a class="btn basic single" target="1">Basic</a>
+            <a class="btn ecommerce single" target="2">Ecommerce</a>
         </div>
-        <div class="contentprize">
+        <div id="div1" class="target">
             <div class="slider04">
                 <div>
                     <div class="card cardRounded">
@@ -313,7 +313,7 @@
                 </div>
             </div>
         </div>
-        <!-- <div class="contentprize">
+        <div id="div2" class="target">
             <div class="slider04">
                 <div>
                     <div class="card cardRounded">
@@ -429,39 +429,9 @@
                     </div>
                 </div>
             </div>
-        </div> -->
-    </div>
-</section>
-
-<!-- <section>
-    <div class="HomePageSectionFour">
-        <img class="MainSectionImg06" src="Assets/images/HomePage/MainSectionImg06.png" alt="">
-        <div class="container">
-            <div class="col-lg-6 m-auto text-center">
-                <div class="OurCustomer">
-                    <h2>Our <span>Customer’s</span></h2>
-                </div>
-            </div>
-            <div class="col-lg-8 m-auto mt-3 mb-3">
-                <div class="slider03">
-                    <div>
-                        <img src="Assets/images/SliderImages/ClientImg01.png" alt="">
-                    </div>
-                    <div>
-                        <img src="Assets/images/SliderImages/ClientImg02.png" alt="">
-                    </div>
-                    <div>
-                        <img src="Assets/images/SliderImages/ClientImg03.png" alt="">
-                    </div>
-                    <div>
-                        <img src="Assets/images/SliderImages/ClientImg04.png" alt="">
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
-</section> -->
-
+</section>
 <?php include 'CommonFile/ContactSection.php'; ?>
 
 <?php include 'CommonFile/Footer.php'; ?>

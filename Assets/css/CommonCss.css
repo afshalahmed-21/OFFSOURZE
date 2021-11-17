@@ -265,6 +265,11 @@ ul.KARACHI li {
     min-height: 490px;
 }
 
+.active a {
+    background: linear-gradient( 45deg, #6610a3, #001b80);
+    border-radius: 50px;
+}
+
 
 /* width */
 
@@ -307,7 +312,7 @@ ul.KARACHI li {
         display: none;
     }
     .HomePageSectionFive {
-        height: 100% !important;
+        height: 75rem !important;
     }
     .HowWeWork::before {
         display: none;
@@ -332,4 +337,35 @@ ul.KARACHI li {
         width: 303px;
         height: 403px;
     }
+}
+
+.modal-header {
+    border-bottom: none !important;
+}
+
+.close {
+    border: none;
+    color: #fff;
+    background: none;
+    padding: 3px;
+}
+
+.modal-header {
+    background: transparent;
+}
+
+.modal-content {
+    border-radius: 15px;
+    box-shadow: 0 15px 65px -25px #fff;
+    background: transparent;
+    margin-top: 15px;
+}
+
+.modal-body {
+    background: transparent;
+    border-radius: 10px;
+}
+
+form h3 {
+    color: #D78D27;
 }

@@ -183,9 +183,9 @@
                         </p>
                     </div>
                     <div class="col-lg-9 m-auto">
-                        <img data-aos="zoom-in" data-aos-duration="2000" src="Assets/images/HomePage/Services-We-Offer-02.png" alt="" usemap="#image_map">
+                        <img data-aos="zoom-in" data-aos-duration="2000" src="Assets/images/HomePage/Services-We-Offer-02.png" alt="" usemap="#image_map" class="map">
                         <map name="image_map">
-                            <area alt="seo" title="seo" href="seo.php" coords="317,43 270,129 319,216 420,215 469,128 419,43 318,43 " shape="polygon">
+                            <area class="bhand" alt="seo" title="seo" href="seo.php" coords="317,43 270,129 319,216 420,215 469,128 419,43 318,43 " shape="polygon">
                             <area alt="Content" title="Content" href="services-content.php" coords="168,131 120,217 170,304 268,303 317,216 270,132 168,132 " shape="polygon">
                             <area alt="Corporate" title="Corporate" href="corporate-branding.php" coords="116,388 169,478 269,476 316,391 268,302 167,302 117,389 " shape="polygon">
                             <area alt="Web-development" title="Web-development" href="web-development.php" coords="317,216 419,216 469,303 419,391 319,391 270,303 317,217 " shape="polygon">
@@ -209,9 +209,6 @@
             <div class="layer"></div>
             <div class="layer"></div>
             <div class="container">
-                <!-- <div class="col-lg-6 m-auto ">
-                    <img class="w-100" src="Assets/images/HomePage/Offsourze-03.png" alt="">
-                </div> -->
                 <div class="">
                     <div class="HowWeWork">
                         <img class="w-100 MainSectionImg02" src="Assets/images/HomePage/MainSectionImg02.png" alt="">
@@ -228,8 +225,6 @@
                             </div>
                         </div>
                         <div class="row m-auto">
-
-
                             <div class="col-lg-8 m-auto text-white">
                                 <div class="row">
                                     <div class="col-lg-3 text-center">
@@ -273,6 +268,7 @@
                     <div class="col-lg-2 m-auto">
                         <div class="getStarted">
                             <a class="GetStarted" href="contact-us.php" data-toggle="modal" data-target="#exampleModal1">Get Started</a>
+                            <!-- <button class="btn btn-info" data-toggle="modal" data-target="#exampleModal1"></button> -->
                         </div>
                     </div>
                 </div>
@@ -310,7 +306,7 @@
     </div>
 </section>
 
-<section>
+<!-- <section>
     <div class="HomePageSectionFiveV1">
         <div class="container">
             <div class="col-lg-4 m-auto text-center WhyOffSourze mt-5 mb-5">
@@ -369,7 +365,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <?php include 'CommonFile/ContactSection.php'; ?>
 
 <?php include 'CommonFile/Footer.php'; ?>

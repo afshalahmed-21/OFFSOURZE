@@ -159,11 +159,14 @@
             <div class="col-lg-4"></div>
             <div class="col-lg-6 m-auto" data-aos="fade-left">
                 <h2>
-                    <i>Java Script</i>
+                    <i>Printable Designs.</i>
                 </h2>
                 <p>
                     <i>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sem nulla, semper sed ullamcorper vel, tempus non quam. Duis nisl ex, euismod non nibh eu, ultrices congue nisl. Duis hendrerit pulvinar laoreet. Praesent pretium augue vitae nibh dignissim posuere. Proin sed porttitor ligula. Morbi in diam feugiat, varius velit id, vulputate arcu. Nam sed eros vulputate, finibus justo eu, faucibus nunc. Nulla facilisi. Vivamus nisl metus, placerat a elementum vel, convallis euismod erat.
+                        -Business Cards <br>
+                        -Letterhead Designs. <br>
+                        -Envelope Designs <br>
+                        -T-Shirts Designs <br>
                     </i>
                 </p>
 
@@ -180,11 +183,14 @@
         <div class="row">
             <div class="col-lg-6 m-auto" data-aos="fade-right">
                 <h2>
-                    <i>Flatter</i>
+                    <i>Banner Designs</i>
                 </h2>
                 <p>
                     <i>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sem nulla, semper sed ullamcorper vel, tempus non quam. Duis nisl ex, euismod non nibh eu, ultrices congue nisl. Duis hendrerit pulvinar laoreet. Praesent pretium augue vitae nibh dignissim posuere. Proin sed porttitor ligula. Morbi in diam feugiat, varius velit id, vulputate arcu. Nam sed eros vulputate, finibus justo eu, faucibus nunc. Nulla facilisi. Vivamus nisl metus, placerat a elementum vel, convallis euismod erat.
+                        -Facebook Banner Design <br>
+                        -Youtube Banner Design <br>
+                        -Twitter Banner Design <br>
+                        -Linkedin Banner Design <br>
                     </i>
                 </p>
 
@@ -205,11 +211,14 @@
             <div class="col-lg-4"></div>
             <div class="col-lg-6 m-auto" data-aos="fade-left">
                 <h2>
-                    <i>Python</i>
+                    <i>Business Profile Design</i>
                 </h2>
                 <p>
                     <i>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sem nulla, semper sed ullamcorper vel, tempus non quam. Duis nisl ex, euismod non nibh eu, ultrices congue nisl. Duis hendrerit pulvinar laoreet. Praesent pretium augue vitae nibh dignissim posuere. Proin sed porttitor ligula. Morbi in diam feugiat, varius velit id, vulputate arcu. Nam sed eros vulputate, finibus justo eu, faucibus nunc. Nulla facilisi. Vivamus nisl metus, placerat a elementum vel, convallis euismod erat.
+                        -Invoice Design <br>
+                        -Proposal Design <br>
+                        -Email Signature <br>
+                        -Presentation Design <br>
                     </i>
                 </p>
 
@@ -232,7 +241,7 @@
                     <div class="card-title">
                         Basic
                     </div>
-                    <ul>
+                    <ul style="margin-top: 20px;">
                         <li>Business Card</li>
                         <li>Letterhead</li>
                         <li>Envelope</li>

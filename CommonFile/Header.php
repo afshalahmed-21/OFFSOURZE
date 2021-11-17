@@ -10,14 +10,14 @@
             <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
                 <ul class="navbar-nav m-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="index.php">Home</a>
+                        <a class="nav-link " aria-current="page" href="index.php">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="about-us.php">About Us</a>
                     </li>
                     <li class="nav-item">
                         <div class="nav-item dropdown">
-                            <a href="javascript:void(0)" class="nav-link dropdown-toggle" data-toggle="dropdown">Plans</a>
+                            <a href="javascript:void(0)" class="nav-link dropdown-toggle" href="digital-startups.php" data-toggle="dropdown">Plans</a>
                             <div class="dropdown-menu">
                                 <a href="digital-startups.php" class="dropdown-item">Digital Startups</a>
                                 <a href="resource-outsource.php" class="dropdown-item">Resource Outsource</a>
@@ -43,9 +43,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="Pricing.php">Pricing</a>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a class="nav-link" href="blogs.php">Blog</a>
-                    </li>
+                    </li> -->
                     <li class="nav-item">
                         <a class="nav-link" href="contact-us.php">Contact</a>
                     </li>

@@ -91,7 +91,7 @@
                         </li>
                     </ul>
                 </div>
-                <div class="col-lg-4 Services">
+                <div class="col-lg-4 ">
                     <h5>Services</h5>
                     <ul>
                         <li>
@@ -150,9 +150,9 @@
     <!-- Modal -->
     <div class="modal fade mt-5" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog" role="document">
-            <div class="modal-content">
-                <div class="modal-body">
-                    <div class="modal-header">
+            <div class="modal-content modal-content-main">
+                <div class="modal-body modal-body-main">
+                    <div class="modal-header modal-header-main">
                         <h5 class="modal-title" id="exampleModalLabel"></h5>
                         <img class="" src="Assets/images/Logo/MainLogo.png" alt="">
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
@@ -183,7 +183,6 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script src="https://kit.fontawesome.com/22501412d8.js" crossorigin="anonymous"></script>
-
 <script>
     const backToTopButton = document.querySelector("#back-to-top-btn");
 
@@ -209,9 +208,6 @@
 
     backToTopButton.addEventListener("click", smoothScrollBackToTop);
 
-    // function backToTop() {
-    //   window.scrollTo(0, 0);
-    // }
 
     function smoothScrollBackToTop() {
         const targetPosition = 0;
@@ -330,7 +326,7 @@
 
     $('.slider04').slick({
         centerMode: true,
-        arrows: false,
+        arrows: true,
         autoplay: true,
         centerPadding: '20px',
         slidesToShow: 3,
@@ -372,6 +368,27 @@
         }
     }
     AOS.init();
+
+    jQuery('.single').click(function() {
+        jQuery('.target').hide();
+        jQuery('#div' + $(this).attr('target')).show();
+    });
+    jQuery('.singleToggle1').click(function() {
+        $("#basic").css("display", "block");
+        $("#ecom").css("display", "none");
+    });
+    jQuery('.singleToggle2').click(function() {
+        $("#ecom").css("display", "block");
+        $("#basic").css("display", "none");
+    });
+    jQuery('.singlePricing').click(function() {
+        jQuery('.target').hide();
+        jQuery('#div' + $(this).attr('target')).show();
+    });
+
+    $("#navbarTogglerDemo01 .navbar-nav .nav-item a").filter(function() {
+        return this.href == location.href.replace(/#.*/, "");
+    }).parent("li").addClass("active");
 </script>
 </body>
 

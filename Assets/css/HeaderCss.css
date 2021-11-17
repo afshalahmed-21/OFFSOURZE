@@ -129,8 +129,9 @@
         transition: 1s;
     }
     
-    .modal-header {
+    .modal-header-main {
         border-bottom: none !important;
+        background: transparent;
     }
     
     .close {
@@ -140,20 +141,14 @@
         padding: 3px;
     }
     
-    .modal-header {
-        background: transparent;
-    }
-    
-    .modal-content {
+    .modal-content-main {
         border-radius: 15px;
         box-shadow: 0 15px 65px -25px #fff;
         background: transparent;
         margin-top: 15px;
     }
     
-    .modal-body {
-        /* background-image: linear-gradient( 45deg, #001b80, #6610a3); */
-        /* background-color: rgb(46, 45, 45); */
+    .modal-body-main {
         background: transparent;
         border-radius: 10px;
     }

@@ -6,10 +6,12 @@
     padding: 80px 20px;
     position: relative;
 }
-.WhiteLablingFirstBg h2{
+
+.WhiteLablingFirstBg h2 {
     color: #D78D27;
     font-weight: 500;
 }
+
 .WhiteLablingSecondBg {
     background: url('../images/WhitLabling/WhiteLabelingSecondBg-02.png');
     background-position: center;
@@ -18,10 +20,12 @@
     padding: 80px 20px;
     position: relative;
 }
-.WhiteLablingSecondBg h2{
+
+.WhiteLablingSecondBg h2 {
     color: #D78D27;
     font-weight: 500;
 }
+
 .WhiteLablingThirdBg {
     background: url('../images/WhitLabling/WhiteLabelingThirdBg-02-02-02.png');
     background-position: center;
@@ -30,7 +34,31 @@
     padding: 80px 20px;
     position: relative;
 }
-.WhiteLablingThirdBg h2{
+
+.WhiteLablingThirdBg h2 {
     color: #D78D27;
     font-weight: 500;
+}
+
+@media screen and (max-width: 991px) {
+    .WhiteLablingFirstBg {
+        padding: 0px;
+    }
+    .DigitalStartupsSetionSixBg {
+        background-image: none;
+        padding: 0px 22px;
+    }
+    .DigitalStartupsSetionSevenBg {
+        background-image: none;
+    }
+    .DigitalStartupsSetionEightBg {
+        padding: 0px 22px;
+        background-image: none;
+    }
+    .DigitalStartupsSetionFive {
+        background-image: none;
+    }
+    .DigitalStartupsSetionImg02 {
+        padding-top: 45px;
+    }
 }

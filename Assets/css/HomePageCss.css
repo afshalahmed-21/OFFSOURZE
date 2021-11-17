@@ -247,30 +247,6 @@ img.MainSectionBannerLine {
 }
 
 
-/* ----------- iPad Pro 12.9" ----------- */
-
-
-/* @media only screen 
-  and (min-device-width: 1024px) 
-  and (max-device-width: 1366px)
-  and (-webkit-min-device-pixel-ratio: 2) {
-    img.MainSectionBannerLine {
-        position: absolute;
-        z-index: 999;
-        right: 88px;
-        left: -46px !important;
-        width: 100%;
-        max-width: 340px;
-        height: 100%;
-        min-height: 782px !important;
-        margin: auto;
-        top: 0;
-        bottom: 0;
-        z-index: 0;
-    }
-} */
-
-
 /* nest Hub max */
 
 @media screen and (min-device-width: 1280px) {
@@ -302,6 +278,57 @@ img.MainSectionBannerLine {
         max-width: 340px;
         height: 100%;
         min-height: 619px !important;
+        margin: auto;
+        top: 0;
+        bottom: 0;
+        z-index: 0;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    img.MainSectionBannerLine {
+        position: absolute;
+        z-index: 999;
+        right: 247px;
+        left: 171px !important;
+        width: 100%;
+        max-width: 358px;
+        height: 100%;
+        min-height: 697px !important;
+        margin: auto;
+        top: 0;
+        bottom: 0;
+        z-index: 0;
+    }
+}
+
+@media screen and (min-width: 1600px) {
+    img.MainSectionBannerLine {
+        position: absolute;
+        z-index: 999;
+        right: 247px;
+        left: 155px !important;
+        width: 100%;
+        max-width: 358px;
+        height: 100%;
+        min-height: 700px !important;
+        margin: auto;
+        top: 0;
+        bottom: 0;
+        z-index: 0;
+    }
+}
+
+@media screen and (min-width: 1900px) {
+    img.MainSectionBannerLine {
+        position: absolute;
+        z-index: 999;
+        right: 247px;
+        left: 132px !important;
+        width: 100%;
+        max-width: 365px;
+        height: 100%;
+        min-height: 777px !important;
         margin: auto;
         top: 0;
         bottom: 0;

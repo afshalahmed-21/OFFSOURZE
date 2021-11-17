@@ -286,3 +286,26 @@ img.processImg {
         transition: 1s;
     }
 }
+
+@media screen and (max-width: 991px) {
+    .DigitalStartupsSetionFive {
+        padding: 0px;
+    }
+    .DigitalStartupsSetionSixBg {
+        background-image: none;
+        padding: 0px 22px;
+    }
+    .DigitalStartupsSetionSevenBg {
+        background-image: none;
+    }
+    .DigitalStartupsSetionEightBg {
+        padding: 0px 22px;
+        background-image: none;
+    }
+    .DigitalStartupsSetionFive {
+        background-image: none;
+    }
+    .DigitalStartupsSetionImg02 {
+        padding-top: 45px;
+    }
+}
